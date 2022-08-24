@@ -7,7 +7,9 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.author -%}
+            {%- if site.title_short -%}
+              {{site.title_short | escape }}
+            {%- else if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
               {{ site.title | escape }}
