@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-update: "Last Updated: 8/23/22"
+update: "Last Updated: 8/27/22"
 ---
 
 ### Refereed Conference Proceedings
@@ -14,7 +14,7 @@ Shengyao Lu, Bang Liu, **Keith G. Mills**, Shangling Jui and Di Niu. <a href="ht
 
 Seyed Saeed Changiz Rezaei, Fred X. Han, Di Niu, Mohammad Salameh, **Keith Mills**, Shuo Lian, Wei Lu and Shangling Jui. <a href="https://www.ijcai.org/proceedings/2021/0307.pdf">Generative Adversarial Neural Architecture Search."</a> In proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (IJCAI-21), pages 2227-2234. (13.9% accpetance rate)
 
-### Referred Journal Publications
+### Refereed Journal Publications
 **Keith G. Mills**, Mohammad Salameh, Di Niu, Fred X. Han, Seyed Saeed Changiz Rezaei, Hengshuai Yao, Wei Lu, Shuo Lian and Shangling Jui. <a href="https://ieeexplore.ieee.org/document/9503404">"Exploring Neural Architecture Search Space via Deep Deterministic Sampling,"</a> published in IEEE Access, Vol. 9 (2021), pages 110962-110974.
 
 Chenglin Li, **Keith Mills**, Rui Zhu, Di Niu, Hongwen Zhang and Husam Kinawi. <a href=" https://ieeexplore.ieee.org/document/8931539">"Android Malware Detection based on Factorization Machine,"</a> published in IEEE Access, Vol. 7 (2019), pages 184008-184019.
