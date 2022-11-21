@@ -2,10 +2,14 @@
 layout: page
 title: Publications
 permalink: /publications/
-update: "Last Updated: 8/27/22"
+update: "Last Updated: 11/20/22"
 ---
 
 ### Refereed Conference Proceedings
+**Keith G. Mills**, Di Niu, Mohammad Salameh, Weichen Qiu, Fred X. Han, Puyuan Liu, Jialin Zhang, Wei Lu and Shangling Jui. "AIO-P: Expanding Neural Performance Predictors Beyond Image Classification." To appear in Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23). (19.6% acceptance rate)
+
+**Keith G. Mills**, Fred X. Han, Jialin Zhang, Fabian Chudak, Ali Safari Mamaghani, Mohammad Salameh, Wei Lu, Shangling Jui and Di Niu. "GENNAPE: Towards Generalized Neural Architecture Performance Estimators." To appear in Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23). (19.6% acceptance rate)
+
 Shengyao Lu, Bang Liu, **Keith G. Mills**, Shangling Jui and Di Niu. <a href="https://arxiv.org/pdf/2205.06454.pdf"> "R5: Rule Discovery with Reinforced and Recurrent Relational Reasoning," </a> accepted as a spotlight paper in the 10th International Conference on Learning Representations (ICLR 2022). (32.9% acceptance rate)
 
 **Keith G. Mills**, Fred X. Han, Jialin Zhang, Seyed Saeed Changiz Rezaei, Fabian Chudak, Wei Lu, Shuo Lian, Shangling Jui and Di Niu. <a href="https://arxiv.org/pdf/2109.12426.pdf"> "Profiling Neural Blocks and Design Spaces for Mobile Neural Architecture Search."</a> In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM '21) as an Applied Research Paper, pages 4026-4035. (23.8% accpetance rate)
