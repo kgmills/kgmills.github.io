@@ -6,6 +6,8 @@ update: "Last Updated: 11/30/22"
 ---
 
 ### Refereed Conference Proceedings
+Fred X. Han, **Keith G. Mills**, Fabian Chudak, Parsa Riahi, Mohammad Salameh, Jialin Zhang, Wei Lu, Shangling Jui and Di Niu. "A General-Purpose Transferable Predictor for Neural Architecture Search." Accepted as a conference paper to the SIAM International Conference on Data Mining (SDM23). (27.4% acceptance rate)
+
 **Keith G. Mills**, Di Niu, Mohammad Salameh, Weichen Qiu, Fred X. Han, Puyuan Liu, Jialin Zhang, Wei Lu and Shangling Jui. <a href="https://arxiv.org/pdf/2211.17228.pdf"> "AIO-P: Expanding Neural Performance Predictors Beyond Image Classification."</a> To appear in Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23). (19.6% acceptance rate)
 
 **Keith G. Mills**, Fred X. Han, Jialin Zhang, Fabian Chudak, Ali Safari Mamaghani, Mohammad Salameh, Wei Lu, Shangling Jui and Di Niu. <a href="https://arxiv.org/pdf/2211.17226.pdf"> "GENNAPE: Towards Generalized Neural Architecture Performance Estimators."</a> To appear in Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23). (19.6% acceptance rate)
