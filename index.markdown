@@ -6,7 +6,7 @@
 
 layout: home
 list_title: ' '
-update: "Last Updated: 11/30/22"
+update: "Last Updated: 2/17/23"
 ---
 
 
@@ -14,7 +14,7 @@ update: "Last Updated: 11/30/22"
     <tbody>
         <tr>
         <td>
-            <img src="/assets/philemon_wright_tombstone.jpg" width="225" title="July 2nd, '22: Taking a selfie next to the tombstone of Philemon Wright, my 6th Great Grandfather and the founder of Wright's Town, later renamed as Hull, and now known as Gatineau, Quebec.">
+            <img src="/assets/profile.png" width="225" title="February 2023: Attending AAAI 2023">
         </td>
         <td>
             <p>
