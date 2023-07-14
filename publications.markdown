@@ -27,4 +27,4 @@ Chenglin Li, **Keith Mills**, Rui Zhu, Di Niu, Hongwen Zhang and Husam Kinawi. <
 
 
 ### Poster Presentations
-**Keith G. Mills**, Muhammad Fetrat Qharabagh, Weichen Qiu, Fred X. Han, Mohammad Salameh, Wei Lu, Shangling Jui and Di Niu. <a href="https://kgmills.github.io/assets/posters/applying_get_op_fusion_DAC2023.pdf">"Applying Graph Explanation to Operator Fusion,"</a> presented as a Work-In-Progress (WIP) poster at the 60th Design Automation Conference (DAC 2023) in San Francisco on July 12th, 2023.
+**Keith G. Mills**, Muhammad Fetrat Qharabagh, Weichen Qiu, Fred X. Han, Mohammad Salameh, Wei Lu, Shangling Jui and Di Niu. <a href="https://kgmills.github.io/assets/posters/applying_get_op_fusion_DAC2023.pdf">"Applying Graph Explanation to Operator Fusion,"</a> presented as a Work-In-Progress (WIP) poster at the 60th ACM/EDAC/IEEE Design Automation Conference (DAC 2023) in San Francisco on July 12th, 2023.
