@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-update: "Last Updated: 6/29/23"
+update: "Last Updated: 7/13/23"
 ---
 
 ### Refereed Conference Proceedings
@@ -24,3 +24,7 @@ Seyed Saeed Changiz Rezaei, Fred X. Han, Di Niu, Mohammad Salameh, **Keith Mills
 **Keith G. Mills**, Mohammad Salameh, Di Niu, Fred X. Han, Seyed Saeed Changiz Rezaei, Hengshuai Yao, Wei Lu, Shuo Lian and Shangling Jui. <a href="https://kgmills.github.io/assets/papers/DDAS_IEEEAccess.pdf">"Exploring Neural Architecture Search Space via Deep Deterministic Sampling,"</a> published in IEEE Access, Vol. 9 (2021), pages 110962-110974.
 
 Chenglin Li, **Keith Mills**, Rui Zhu, Di Niu, Hongwen Zhang and Husam Kinawi. <a href="https://kgmills.github.io/assets/papers/Android_Malware_Factorization_IEEEAccess.pdf">"Android Malware Detection based on Factorization Machine,"</a> published in IEEE Access, Vol. 7 (2019), pages 184008-184019.
+
+
+### Poster Presentations
+**Keith G. Mills**, Muhammad Fetrat Qharabagh, Weichen Qiu, Fred X. Han, Mohammad Salameh, Wei Lu, Shangling Jui and Di Niu. <a href="https://kgmills.github.io/assets/posters/applying_get_op_fusion_DAC2023.pdf">"Applying Graph Explanation to Operator Fusion,"</a> presented as a Work-In-Progress (WIP) poster at the 60th Design Automation Conference (DAC 2023) in San Francisco on July 12th, 2023.
