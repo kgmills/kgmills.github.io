@@ -2,10 +2,12 @@
 layout: page
 title: Publications
 permalink: /publications/
-update: "Last Updated: 7/13/23"
+update: "Last Updated: 9/22/23"
 ---
 
 ### Refereed Conference Proceedings
+Mohammad Salameh, **Keith G. Mills**, Negar Hassanpour, Fred X. Han, Shuting Zhang, Wei Lu, Shangling Jui, Chunhua Zhou, Fengyu Sun and Di Niu. "AutoGO: Automated Computation Graph Optimization for Neural Network Evolution." In Proceedings of the Thirty-Seventh Conference on Neural Information Processing Systems (NeurIPS 2023; 26.1% acceptance rate).
+
 Fred X. Han, **Keith G. Mills**, Fabian Chudak, Parsa Riahi, Mohammad Salameh, Jialin Zhang, Wei Lu, Shangling Jui and Di Niu. <a href="https://kgmills.github.io/assets/papers/general_predictor_sdm23.pdf">"A General-Purpose Transferable Predictor for Neural Architecture Search."</a> In Proceedings of the 2023 SIAM International Conference on Data Mining (SDM23; 27.4% acceptance rate), pages 721-729.
 
 **Keith G. Mills**, Di Niu, Mohammad Salameh, Weichen Qiu, Fred X. Han, Puyuan Liu, Jialin Zhang, Wei Lu and Shangling Jui. <a href="https://kgmills.github.io/assets/papers/AIO-P_AAAI23.pdf"> "AIO-P: Expanding Neural Performance Predictors Beyond Image Classification."</a> In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23; 19.6% acceptance rate), pages 9180-9189.
