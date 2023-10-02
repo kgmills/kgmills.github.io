@@ -6,7 +6,7 @@
 
 layout: home
 list_title: ' '
-update: "Last Updated: 2/17/23"
+update: "Last Updated: 10/1/23"
 ---
 
 
@@ -42,8 +42,7 @@ of Neural Architecture Search!
 ## A More Formal Bio
 Keith G. Mills is a PhD Student at the Department of Electrical and Computer
 Engineering at the University of Alberta under the supervision of
-<a href="https://sites.ualberta.ca/~dniu/Homepage/Home.html">Associate
-Professor Di Niu</a>. He received his MSc. in Computer Engineering from the
+<a href="https://sites.ualberta.ca/~dniu/Homepage/Home.html">Professor Di Niu</a>. He received his MSc. in Computer Engineering from the
 University of Alberta in 2020 and his BSc. in Computer Engineering, with
 Distinction, and also from the University of Alberta in 2018. Concurrently, he
 is an Associate Research Intern at Edmonton Research Center for Huawei
