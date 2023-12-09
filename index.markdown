@@ -6,7 +6,7 @@
 
 layout: home
 list_title: ' '
-update: "Last Updated: 10/1/23"
+update: "Last Updated: 12/8/23"
 ---
 
 
@@ -18,7 +18,7 @@ update: "Last Updated: 10/1/23"
         </td>
         <td>
             <p>
-                <b>PhD Student</b><br>
+                <b>PhD Candidate</b><br>
                 Department of Electrical and Computer Engineering <br>
                 University of Alberta <br>
                 <b>Email</b> (Preferred): <a href="kgmills@ualberta.ca">kgmills@ualberta.ca </a> <br>
@@ -34,13 +34,13 @@ update: "Last Updated: 10/1/23"
 </table>
 
 ## Hello World!
-I'm a PhD Student at the ECE Department of the University of Alberta (UAlberta).
+I'm a PhD Candidate at the ECE Department of the University of Alberta (UAlberta).
 Currently, I am also working as an Associate Research
 Intern at Huawei Technologies Canada, to solve challenging and interesting problems in the field
 of Neural Architecture Search!
 
 ## A More Formal Bio
-Keith G. Mills is a PhD Student at the Department of Electrical and Computer
+Keith G. Mills is a PhD Candidate at the Department of Electrical and Computer
 Engineering at the University of Alberta under the supervision of
 <a href="https://sites.ualberta.ca/~dniu/Homepage/Home.html">Professor Di Niu</a>. He received his MSc. in Computer Engineering from the
 University of Alberta in 2020 and his BSc. in Computer Engineering, with
