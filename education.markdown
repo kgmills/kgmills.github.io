@@ -2,11 +2,12 @@
 layout: page
 title: Education
 permalink: /Education/
-update: "Last Updated: 8/26/22"
+update: "Last Updated: 12/17/22"
 ---
 
 **PhD. Software Engineering and Intelligent Systems** Jan 2021 - Ongoing <br>
 Department of Electrical and Computer Engineering, University of Alberta. <br>
+Doctorial Candidacy Exam completed Dec 8th, 2023.<br>
 Advisor: Di Niu
 
 **MSc. Computer Engineering** Sept 2018 - Dec 2020 <br>
@@ -22,8 +23,6 @@ ECE 625 - Data Analysis and Knowledge Discovery - <a href="https://sites.ualbert
 ECE 624 - Fuzzy Sets in Human-Centric Systems - <a href="https://apps.ualberta.ca/directory/person/wpedrycz">Witold Pedrycz</a><br>
 CMPUT 566 - Intro to Machine Learning - <a href="https://webdocs.cs.ualberta.ca/~whitem/">Martha White</a>
 
-**BSc. Computer Engineering, with Distinction** Sept 2014 - April 2018 <br>
+**BSc. Computer Engineering, with Distinction** Sept 2013 - April 2018 <br>
 Department of Electrical and Computer Engineering, University of Alberta. <br>
-
-**BSc. Engineering First Year Common Core** Sept 2013 - April 2014 <br>
-Keyano College, Fort McMurray. <br>
+Department of University Studies, Keyano College (First Year Common Core).

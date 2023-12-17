@@ -6,7 +6,7 @@
 
 layout: home
 list_title: ' '
-update: "Last Updated: 12/8/23"
+update: "Last Updated: 12/17/23"
 ---
 
 
@@ -18,7 +18,7 @@ update: "Last Updated: 12/8/23"
         </td>
         <td>
             <p>
-                <b>PhD Candidate</b><br>
+                <b>PhD Candidate, E.I.T.</b><br>
                 Department of Electrical and Computer Engineering <br>
                 University of Alberta <br>
                 <b>Email</b> (Preferred): <a href="kgmills@ualberta.ca">kgmills@ualberta.ca </a> <br>
@@ -35,9 +35,7 @@ update: "Last Updated: 12/8/23"
 
 ## Hello World!
 I'm a PhD Candidate at the ECE Department of the University of Alberta (UAlberta).
-Currently, I am also working as an Associate Research
-Intern at Huawei Technologies Canada, to solve challenging and interesting problems in the field
-of Neural Architecture Search!
+Currently, I am also working as an Associate Research Intern at Huawei Technologies Canada, working to apply Neural Architecture Search to Efficient Machine Learning!
 
 ## A More Formal Bio
 Keith G. Mills is a PhD Candidate at the Department of Electrical and Computer
@@ -46,8 +44,7 @@ Engineering at the University of Alberta under the supervision of
 University of Alberta in 2020 and his BSc. in Computer Engineering, with
 Distinction, and also from the University of Alberta in 2018. Concurrently, he
 is an Associate Research Intern at Edmonton Research Center for Huawei
-Technologies Canada Co., Ltd., where his current focus is on Performance
-Prediction in Neural Architecture Search.
+Technologies Canada Co., Ltd., where his current research focus is Neural Architecture Search for Efficient Machine Learning.
 
 ## Some Links
 [[Google Scholar]](https://scholar.google.ca/citations?user=CBOD_ngAAAAJ&hl=en&oi=ao)<br>

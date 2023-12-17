@@ -39,7 +39,7 @@ plugins:
 header_pages:
   - publications.markdown
   - education.markdown
-  - teaching.markdown
+  - academic.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
