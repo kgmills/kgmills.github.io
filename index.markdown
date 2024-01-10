@@ -14,7 +14,7 @@ update: "Last Updated: 12/17/23"
     <tbody>
         <tr>
         <td>
-            <img src="/assets/profile.png" width="225" title="February 2023: Attending AAAI 2023">
+            <img src="/assets/profile.png" width="225" title="NYE'23 in Ottawa with family">
         </td>
         <td>
             <p>
