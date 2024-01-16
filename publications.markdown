@@ -2,10 +2,12 @@
 layout: page
 title: Publications
 permalink: /publications/
-update: "Last Updated: 12/17/23"
+update: "Last Updated: 1/16/24"
 ---
 
 ### Refereed Conference Proceedings
+Shengyao Lu, **Keith G. Mills**, Jiao He, Bang Liu and Di Niu. <a href="https://openreview.net/forum?id=2Q8TZWAHv4">"*GOAt*: Explaining Graph Neural Networks via Graph Output Attribution"</a>, accepted as a conference paper at the 12th International Conference on Learning Representations (ICLR 2024; 31.0% acceptance rate).
+
 Mohammad Salameh, **Keith G. Mills**, Negar Hassanpour, Fred X. Han, Shuting Zhang, Wei Lu, Shangling Jui, Chunhua Zhou, Fengyu Sun and Di Niu. <a href="https://kgmills.github.io/assets/papers/AutoGO_NeurIPS23.pdf">"AutoGO: Automated Computation Graph Optimization for Neural Network Evolution."</a> In Proceedings of the Thirty-Seventh Conference on Neural Information Processing Systems (NeurIPS 2023; 26.1% acceptance rate). <br>
 [<a href="../assets/posters/AutoGO_NeurIPS23_poster.pdf">Poster</a>][<a href="https://recorder-v3.slideslive.com/?share=87224&s=4d802730-c9a2-414e-9ca2-b9f7e7c53a25https://recorder-v3.slideslive.com/?share=87224&s=4d802730-c9a2-414e-9ca2-b9f7e7c53a25">Video</a>][<a href="../assets/slides/AutoGO_NeurIPS23_slides.pdf">Slides</a>]
 
