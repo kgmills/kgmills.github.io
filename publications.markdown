@@ -2,10 +2,12 @@
 layout: page
 title: Publications
 permalink: /publications/
-update: "Last Updated: 1/29/24"
+update: "Last Updated: 3/1/24"
 ---
 
 ### Refereed Conference Proceedings
+**Keith G. Mills**, Fred X. Han, Mohammad Salameh, Shengyao Lu, Chunhua Zhou, Jiao He, Fengyu Sun and Di Niu. "Building Optimal Neural Architectures using Interpretable Knowledge", accepted to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24).
+
 Shengyao Lu, **Keith G. Mills**, Jiao He, Bang Liu and Di Niu. <a href="https://kgmills.github.io/assets/papers/GOAt_ICLR24.pdf">"*GOAt*: Explaining Graph Neural Networks via Graph Output Attribution"</a>, accepted as a conference paper at the 12th International Conference on Learning Representations (ICLR 2024; 31.0% acceptance rate).
 
 Mohammad Salameh, **Keith G. Mills**, Negar Hassanpour, Fred X. Han, Shuting Zhang, Wei Lu, Shangling Jui, Chunhua Zhou, Fengyu Sun and Di Niu. <a href="https://kgmills.github.io/assets/papers/AutoGO_NeurIPS23.pdf">"AutoGO: Automated Computation Graph Optimization for Neural Network Evolution."</a> In Proceedings of the Thirty-Seventh Conference on Neural Information Processing Systems (NeurIPS 2023; 26.1% acceptance rate). <br>
