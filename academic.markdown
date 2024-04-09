@@ -2,7 +2,7 @@
 layout: page
 title: Academic Service
 permalink: /academic/
-update: "Last Updated: 12/17/22"
+update: "Last Updated: 4/8/24"
 ---
 
 ### Peer Review
@@ -18,5 +18,7 @@ Department of Electrical and Computer Engineering, University of Alberta.<br>
 **Laboratory Teaching Assistant, ECE 492, Computer Engineering Design Project, Winter 2019**<br>
 Department of Electrical and Computer Engineering, University of Alberta.<br>
 
-**Graduate Teaching and Learning Program, Level 1, 2019**<br>
+
+**Graduate Teaching and Learning Program Level 2: Practicum**<br>
+**Graduate Teaching and Learning Program Level 1: Foundations**<br>
 Faculty of Graduate Studies and Research, University of Alberta.
