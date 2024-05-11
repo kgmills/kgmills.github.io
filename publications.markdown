@@ -6,7 +6,7 @@ update: "Last Updated: 5/1/24"
 ---
 
 ### Refereed Conference Proceedings
-Shengyao Lu, Bang Liu, **Keith G. Mills**, Jiao He and Di Niu. "EiG-Search: Generating Edge-Induced Subgraphs for GNN Explanation in Linear Time", accepted to the Forty-first International Conference on Machine Learning (ICML'24; 27.5% acceptance rate).
+Shengyao Lu, Bang Liu, **Keith G. Mills**, Jiao He and Di Niu. <a href="https://kgmills.github.io/assets/papers/EiG-Search_ICML24.pdf">"EiG-Search: Generating Edge-Induced Subgraphs for GNN Explanation in Linear Time"</a>, accepted to the Forty-first International Conference on Machine Learning (ICML'24; 27.5% acceptance rate).
 
 **Keith G. Mills**, Fred X. Han, Mohammad Salameh, Shengyao Lu, Chunhua Zhou, Jiao He, Fengyu Sun and Di Niu. <a href="https://kgmills.github.io/assets/papers/AutoBuild_CVPR24.pdf">"Building Optimal Neural Architectures using Interpretable Knowledge"</a>, accepted to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24; 23.6% acceptance rate).
 
