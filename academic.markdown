@@ -6,6 +6,7 @@ update: "Last Updated: 4/8/24"
 ---
 
 ### Peer Review
+Reviewer for the Thirty-Eight Annual Conference on Neural Information Processing Systems (NeurIPS'24)<br>
 Reviewer for the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'24)<br>
 Reviewer for Engineering Applications of Artificial Intelligence<br>
 Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br>
