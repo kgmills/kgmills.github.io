@@ -2,7 +2,7 @@
 layout: page
 title: Education
 permalink: /Education/
-update: "Last Updated: {{ page.last_modified_at | date: '%-d/%-m/%y' }}"
+update: "Last Updated: 12/17/22"
 ---
 
 **PhD. Software Engineering and Intelligent Systems** Jan 2021 - Ongoing <br>

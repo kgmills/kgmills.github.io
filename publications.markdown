@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-update: "Last Updated: {{ page.last_modified_at | date: '%-d/%-m/%y' }}"
+update: "Last Updated: 5/27/24"
 ---
 
 ### Refereed Conference Proceedings
