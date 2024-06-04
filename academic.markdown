@@ -2,7 +2,7 @@
 layout: page
 title: Academic Service
 permalink: /academic/
-update: "Last Updated: 4/8/24"
+update: "Last Updated: {{ page.last_modified_at | date: '%-d/%-m/%y' }}"
 ---
 
 ### Peer Review

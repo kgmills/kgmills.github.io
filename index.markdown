@@ -6,7 +6,7 @@
 
 layout: home
 list_title: ' '
-update: "Last Updated: 1/10/24"
+update: "Last Updated: {{ page.last_modified_at | date: '%-d/%-m/%y' }}"
 ---
 
 
