@@ -2,7 +2,7 @@
 layout: page
 title: Academic Service
 permalink: /academic/
-update: "Last Updated: 8/18/24"
+update: "Last Updated: 8/26/24"
 ---
 
 ### Peer Review
@@ -21,6 +21,7 @@ Department of Electrical and Computer Engineering, University of Alberta.<br>
 Department of Electrical and Computer Engineering, University of Alberta.<br>
 
 
+**Graduate Teaching and Learning Program Level 3: Classrooms and Communities**<br>
 **Graduate Teaching and Learning Program Level 2: Practicum**<br>
 **Graduate Teaching and Learning Program Level 1: Foundations**<br>
 Faculty of Graduate Studies and Research, University of Alberta.
