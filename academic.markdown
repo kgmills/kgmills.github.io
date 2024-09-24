@@ -2,13 +2,15 @@
 layout: page
 title: Academic Service
 permalink: /academic/
-update: "Last Updated: 8/26/24"
+update: "Last Updated: 9/24/24"
 ---
 
 ### Peer Review
+Reviewer for the Thirteenth International Conference on Learning Representations (ICLR'25)<br>
 Reviewer for the Thirty-Ninth Annual AAAI Conference on Artificial Intelligence (AAAI-25)<br>
 Reviewer for the Thirty-Eight Annual Conference on Neural Information Processing Systems (NeurIPS'24)<br>
 Reviewer for the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'24)<br>
+Reviewer for Neural Networks<br>
 Reviewer for Engineering Applications of Artificial Intelligence<br>
 Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br>
 
