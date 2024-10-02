@@ -2,7 +2,7 @@
 layout: page
 title: Academic Service
 permalink: /academic/
-update: "Last Updated: 10/1/24"
+update: "Last Updated: 10/2/24"
 ---
 
 ## Peer Review Services
@@ -25,11 +25,11 @@ update: "Last Updated: 10/1/24"
 ### Teaching Experience
 **Lecture Teaching Assistant, ECE 492, Computer Engineering Design Project, Winter 2021**<br>
 Department of Electrical and Computer Engineering, University of Alberta.<br>
-*Instructor: <a href="https://apps.ualberta.ca/directory/person/knud">Steven Knudsen*</a>
+*Instructor:* <a href="https://apps.ualberta.ca/directory/person/knud">*Steven Knudsen*</a>
 
 **Laboratory Teaching Assistant, ECE 492, Computer Engineering Design Project, Winter 2019**<br>
 Department of Electrical and Computer Engineering, University of Alberta.<br>
-*Instructor: <a href="https://apps.ualberta.ca/directory/person/elou">Edmond Lou*</a>
+*Instructor:* <a href="https://apps.ualberta.ca/directory/person/elou">*Edmond Lou*</a>
 
 ## Teaching Credentials
 **Graduate Teaching and Learning Program, Faculty of Graduate Studies and Research, University of Alberta**<br>
