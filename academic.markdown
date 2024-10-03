@@ -31,7 +31,7 @@ Department of Electrical and Computer Engineering, University of Alberta.<br>
 Department of Electrical and Computer Engineering, University of Alberta.<br>
 *Instructor:* <a href="https://apps.ualberta.ca/directory/person/elou">*Edmond Lou*</a>
 
-## Teaching Credentials
+### Pedagogical Training
 **Graduate Teaching and Learning Program, Faculty of Graduate Studies and Research, University of Alberta**<br>
 * Level 3: *Pedagogy and Course Design*
 * Level 3: *Classrooms and Communities*
