@@ -2,16 +2,17 @@
 layout: page
 title: Publications
 permalink: /publications/
-update: "Last Updated: 5/27/24"
+update: "Last Updated: 7/4/24"
 ---
 
 ### Refereed Conference Proceedings
 Shengyao Lu, Bang Liu, **Keith G. Mills**, Jiao He and Di Niu. <a href="https://kgmills.github.io/assets/papers/EiG-Search_ICML24.pdf">"EiG-Search: Generating Edge-Induced Subgraphs for GNN Explanation in Linear Time"</a>, accepted to the Forty-first International Conference on Machine Learning (ICML'24; 27.5% acceptance rate).
 
-**Keith G. Mills**, Fred X. Han, Mohammad Salameh, Shengyao Lu, Chunhua Zhou, Jiao He, Fengyu Sun and Di Niu. <a href="https://kgmills.github.io/assets/papers/AutoBuild_CVPR24.pdf">"Building Optimal Neural Architectures using Interpretable Knowledge"</a>, accepted to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24; 23.6% acceptance rate).<br>
+**Keith G. Mills**, Fred X. Han, Mohammad Salameh, Shengyao Lu, Chunhua Zhou, Jiao He, Fengyu Sun and Di Niu. <a href="https://kgmills.github.io/assets/papers/AutoBuild_CVPR24.pdf">"Building Optimal Neural Architectures using Interpretable Knowledge"</a>, in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24; 23.6% acceptance rate), pages 5726-5735.<br>
 [<a href="../assets/posters/AutoBuild_CVPR24_poster.pdf">Poster</a>][<a href="https://www.youtube.com/watch?v=rujgUNaXKr4&ab_channel=KeithMills">Video</a>][<a href="../assets/slides/AutoBuild_CVPR24_slides.pdf">Slides</a>]
 
-Shengyao Lu, **Keith G. Mills**, Jiao He, Bang Liu and Di Niu. <a href="https://kgmills.github.io/assets/papers/GOAt_ICLR24.pdf">"*GOAt*: Explaining Graph Neural Networks via Graph Output Attribution"</a>, accepted as a conference paper at the 12th International Conference on Learning Representations (ICLR 2024; 31.0% acceptance rate).
+Shengyao Lu, **Keith G. Mills**, Jiao He, Bang Liu and Di Niu. <a href="https://kgmills.github.io/assets/papers/GOAt_ICLR24.pdf">"*GOAt*: Explaining Graph Neural Networks via Graph Output Attribution"</a>, published in the 12th International Conference on Learning Representations (ICLR 2024; 31.0% acceptance rate).<br>
+[<a href="../assets/posters/GOAt_ICLR24_poster.png">Poster</a>][<a href="https://iclr.cc/virtual/2024/poster/19551">Video</a>][<a href="../assets/slides/GOAt_ICLR24_slides.pdf">Slides</a>]
 
 Mohammad Salameh, **Keith G. Mills**, Negar Hassanpour, Fred X. Han, Shuting Zhang, Wei Lu, Shangling Jui, Chunhua Zhou, Fengyu Sun and Di Niu. <a href="https://kgmills.github.io/assets/papers/AutoGO_NeurIPS23.pdf">"AutoGO: Automated Computation Graph Optimization for Neural Network Evolution."</a> In Advances in Neural Information Processing Systems (NeurIPS 2023; 26.1% acceptance rate), vol. 36, pages 74455-74477. <br>
 [<a href="../assets/posters/AutoGO_NeurIPS23_poster.pdf">Poster</a>][<a href="https://nips.cc/virtual/2023/poster/70604">Video</a>][<a href="../assets/slides/AutoGO_NeurIPS23_slides.pdf">Slides</a>]
