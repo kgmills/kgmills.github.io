@@ -2,17 +2,20 @@
 layout: page
 title: Academic Service
 permalink: /academic/
-update: "Last Updated: 10/2/24"
+update: "Last Updated: 11/16/24"
 ---
 
 ## Peer Review Services
+
+### Service Awards and Recognition
+* Top Reviewer for the 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24)<br>
+
 ### Conferences
 
 * Thirteenth International Conference on Learning Representations (ICLR'25)<br>
 * Thirty-Ninth Annual AAAI Conference on Artificial Intelligence (AAAI-25)<br>
 * Twenty-Eighth International Conference on Artificial Intelligence and Statistics (AISTATS'25)<br>
-* Thirty-Eight Annual Conference on Neural Information Processing Systems (NeurIPS'24)<br>
-* IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'24)<br>
+* IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'24-25)<br>
 
 ### Journals
 * Nature-Scientific Reports<br>
