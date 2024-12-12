@@ -2,7 +2,7 @@
 layout: page
 title: Academic Service
 permalink: /academic/
-update: "Last Updated: 11/16/24"
+update: "Last Updated: 12/11/24"
 ---
 
 ## Peer Review Services
@@ -12,6 +12,7 @@ update: "Last Updated: 11/16/24"
 
 ### Conferences
 
+* Forty-Second International Conference on Machine Learning (ICML'25)<br>
 * Thirteenth International Conference on Learning Representations (ICLR'25)<br>
 * Thirty-Ninth Annual AAAI Conference on Artificial Intelligence (AAAI-25)<br>
 * Twenty-Eighth International Conference on Artificial Intelligence and Statistics (AISTATS'25)<br>
