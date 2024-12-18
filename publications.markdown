@@ -2,13 +2,15 @@
 layout: page
 title: Publications
 permalink: /publications/
-update: "Last Updated: 12/9/24"
+update: "Last Updated: 12/17/24"
 ---
 
 ### Refereed Conference Proceedings
-**Keith G. Mills**, Mohammad Salameh, Ruichen Chen, Negar Hassanpour, Wei Lu and Di Niu. "Qua<sup>2</sup>SeDiMo: Quantifiable Quantization Sensitivity of Diffusion Models", accepted to the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25; 23.4% acceptance rate).
+**Keith G. Mills**, Mohammad Salameh, Ruichen Chen, Negar Hassanpour, Wei Lu and Di Niu. "Qua<sup>2</sup>SeDiMo: Quantifiable Quantization Sensitivity of Diffusion Models", accepted to the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25; 23.4% acceptance rate).<br>
+[<a href="../projects/qua2sedimo">Project Page</a>]
 
-Shengyao Lu, Bang Liu, **Keith G. Mills**, Jiao He and Di Niu. <a href="https://kgmills.github.io/assets/papers/EiG-Search_ICML24.pdf">"EiG-Search: Generating Edge-Induced Subgraphs for GNN Explanation in Linear Time"</a>, accepted to the Forty-first International Conference on Machine Learning (ICML'24; 27.5% acceptance rate).
+Shengyao Lu, Bang Liu, **Keith G. Mills**, Jiao He and Di Niu. <a href="https://kgmills.github.io/assets/papers/EiG-Search_ICML24.pdf">"EiG-Search: Generating Edge-Induced Subgraphs for GNN Explanation in Linear Time"</a>, accepted to the Forty-first International Conference on Machine Learning (ICML'24; 27.5% acceptance rate).<br>
+[<a href="https://icml.cc/media/PosterPDFs/ICML%202024/34471.png?t=1718314897.8662622">Poster</a>]
 
 **Keith G. Mills**, Fred X. Han, Mohammad Salameh, Shengyao Lu, Chunhua Zhou, Jiao He, Fengyu Sun and Di Niu. <a href="https://kgmills.github.io/assets/papers/AutoBuild_CVPR24.pdf">"Building Optimal Neural Architectures using Interpretable Knowledge"</a>, in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24; 23.6% acceptance rate), pages 5726-5735.<br>
 [<a href="../assets/posters/AutoBuild_CVPR24_poster.pdf">Poster</a>][<a href="https://www.youtube.com/watch?v=rujgUNaXKr4&ab_channel=KeithMills">Video</a>][<a href="../assets/slides/AutoBuild_CVPR24_slides.pdf">Slides</a>]
