@@ -77,7 +77,7 @@
                     <div class="publication-links">
                          <!-- Arxiv PDF link -->
                       <span class="link-block">
-                        <a href="https://arxiv.org/pdf/<ARXIV PAPER ID>.pdf" target="_blank"
+                        <a href="https://arxiv.org/abs/2412.14628" target="_blank"
                         class="external-link button is-normal is-rounded is-dark">
                         <span class="icon">
                           <i class="fas fa-file-pdf"></i>
@@ -86,36 +86,17 @@
                       </a>
                     </span>
 
-                    <!-- Supplementary PDF link -->
-                    <span class="link-block">
-                      <a href="static/pdfs/supplementary_material.pdf" target="_blank"
-                      class="external-link button is-normal is-rounded is-dark">
-                      <span class="icon">
-                        <i class="fas fa-file-pdf"></i>
-                      </span>
-                      <span>Supplementary</span>
-                    </a>
-                  </span>
-
                   <!-- Github link -->
                   <span class="link-block">
-                    <a href="https://github.com/YOUR REPO HERE" target="_blank"
+                    <a href="https://github.com/Ascend-Research/Qua2SeDiMo" target="_blank"
                     class="external-link button is-normal is-rounded is-dark">
                     <span class="icon">
                       <i class="fab fa-github"></i>
                     </span>
-                    <span>Code</span>
+                    <span>Code (Coming 2025)</span>
                   </a>
                 </span>
 
-                <!-- ArXiv abstract Link -->
-                <span class="link-block">
-                  <a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank"
-                  class="external-link button is-normal is-rounded is-dark">
-                  <span class="icon">
-                    <i class="ai ai-arxiv"></i>
-                  </span>
-                  <span>arXiv</span>
                 </a>
               </span>
             </div>
@@ -131,9 +112,9 @@
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body">
-      <center><img src="static/images/nothing-to-see-here-explosion.gif" alt="COME BACK LATER!"/></center>
+      <center><img src="static/images/alpha_website.png" alt="Visual comparison on PixArt-α!"/></center>
       <h2 class="subtitle has-text-centered">
-        Hey all! This page is currently a work in progress and has a long way to go! It mainly exists to be included in the camera-ready version of the paper. But stay tuned for updates! Including the ArXiv version and code, coming 2025!
+        We introduce an explainable mixed-precision Post-Training Quantization quantization framework for diffusion models. Our method generates insights sensitivity of model weights quantization. This allows us to achive sub 4-bit weight precision on several diffusion models like PixArt-α/Σ and Hunyuan. 
       </h2>
     </div>
   </div>
@@ -157,6 +138,77 @@
 </section>
 <!-- End paper abstract -->
 
+<div class="hero-body">
+  <div class="container" style="text-align: center;">
+    <image src="static/images/dit_blk.png" height="424" width="774"></image>
+        <h2 class="subtitle has-text-centered" style="text-align: center; width: 50vw; margin:auto;">
+          We cast DM denoisers as Directed Acyclic Graphs. Each weight layer can be quantized to 3 or 4-bit precision using one of three quantization methods. Using this we can construct mixed-precision quantization configurations for denoiser models.
+        </h2>
+  </div>
+</div>
+
+<section>
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-five-sixths">
+        <h2 class="title is-3">Pareto Optimal Mixed-Precision Denoisers</h2>
+      <image src="static/images/aaai_pareto.png" height="500" width="1900"></image>
+      <h3>We use a Graph Neural Network (GNN) regressor predictor to learn the optimal bit-precision and quantization method for each weight layer in order to minimize model size and maximize performance. The GNN predictor produces explainable, quantifiable insights on the sensitivity of different weight (operation) types, block structures, and positions within the overall denoiser model.</h3>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Image carousel -->
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container">
+      <div id="results-carousel" class="carousel results-carousel">
+        <div class="item">
+          <!-- Your image here -->
+          <img src="static/images/sigma_website.png" alt="MY ALT TEXT"/>
+          <h2 class="subtitle has-text-centered">
+            Results on PixArt-Σ. Resolution: 1024x1024.
+          </h2>
+        </div>
+        <div class="item">
+          <!-- Your image here -->
+          <img src="static/images/hunyuan_website.png" alt="MY ALT TEXT"/>
+          <h2 class="subtitle has-text-centered">
+            Results on Hunyuan-DiT. Resolution: 1024x1024.
+          </h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End image carousel -->
+
+<!-- Image carousel -->
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container">
+      <div id="results-carousel" class="carousel results-carousel">
+        <div class="item has-text-centered">
+          <!-- Your image here -->
+          <img src="static/images/bar_plots_website.png" alt="MY ALT TEXT"/>
+          <h2 class="subtitle has-text-centered">
+           Composition of quantization methods and bit precisions selected to form low-bit mixed-precision configurations for text-to-image models.
+         </h2>
+       </div>
+      <div class="item">
+        <!-- Your image here -->
+        <img src="static/images/insights_sub_4-bit_website.png" alt="MY ALT TEXT"/>
+        <h2 class="subtitle has-text-centered">
+          Quantifiable sensitivity insight example: Distribution of importance score for sub 4-bit quantization configurations based on Transformer block index. Higher score distribute corresponds to greater sensitivity to low-bit quantization.
+        </h2>
+      </div>
+  </div>
+</div>
+</div>
+</section>
+<!-- End image carousel -->
+
 
 <!--BibTex citation -->
   <section class="section" id="BibTeX">
@@ -173,16 +225,13 @@
 <!--End BibTex citation -->
 
 
-  <footer class="footer">
+<footer class="footer">
   <div class="container">
     <div class="columns is-centered">
       <div class="column is-8">
         <div class="content">
-
           <p>
             This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
-            You are free to borrow the source code of this website, we just ask that you link back to this page in the footer. <br> This website is licensed under a <a rel="license"  href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative
-            Commons Attribution-ShareAlike 4.0 International License</a>.
           </p>
 
         </div>
