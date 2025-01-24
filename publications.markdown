@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-update: "Last Updated: 12/19/24"
+update: "Last Updated: 1/2/25"
 ---
 
 ### Refereed Conference Proceedings
@@ -54,4 +54,5 @@ Chenglin Li, **Keith Mills**, Rui Zhu, Di Niu, Hongwen Zhang and Husam Kinawi. <
 
 
 ### Poster Presentations
-**Keith G. Mills**, Muhammad Fetrat Qharabagh, Weichen Qiu, Fred X. Han, Mohammad Salameh, Wei Lu, Shangling Jui and Di Niu. <a href="../assets/posters/applying_get_op_fusion_DAC2023.pdf">"Applying Graph Explanation to Operator Fusion,"</a> presented as a Work-In-Progress (WIP) poster at the 60th ACM/EDAC/IEEE Design Automation Conference (DAC 2023) in San Francisco on July 12th, 2023.
+**Keith G. Mills**, Muhammad Fetrat Qharabagh, Weichen Qiu, Fred X. Han, Mohammad Salameh, Wei Lu, Shangling Jui and Di Niu. <a href="../assets/papers/GET_OPFUSE_DAC23.pdf">"Applying Graph Explanation to Operator Fusion,"</a> presented as a Work-In-Progress (WIP) poster at the 60th ACM/EDAC/IEEE Design Automation Conference (DAC 2023) in San Francisco on July 12th, 2023.<br>
+[<a href="../assets/posters/applying_get_op_fusion_DAC2023.pdf">Poster</a>]
