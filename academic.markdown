@@ -2,7 +2,7 @@
 layout: page
 title: Academic Service
 permalink: /academic/
-update: "Last Updated: 12/11/24"
+update: "Last Updated: 1/25/25"
 ---
 
 ## Peer Review Services
@@ -19,6 +19,7 @@ update: "Last Updated: 12/11/24"
 * IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'24-25)<br>
 
 ### Journals
+* Transactions on Machine Learning Research<br>
 * Nature-Scientific Reports<br>
 * Elsevier-Neural Networks<br>
 * Elsevier-Engineering Applications of Artificial Intelligence<br>
