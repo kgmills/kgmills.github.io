@@ -2,7 +2,7 @@
 layout: page
 title: Academic Service
 permalink: /academic/
-update: "Last Updated: 1/25/25"
+update: "Last Updated: 2/13/25"
 ---
 
 ## Peer Review Services
@@ -17,6 +17,7 @@ update: "Last Updated: 1/25/25"
 * Thirty-Ninth Annual AAAI Conference on Artificial Intelligence (AAAI-25)<br>
 * Twenty-Eighth International Conference on Artificial Intelligence and Statistics (AISTATS'25)<br>
 * IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'24-25)<br>
+* International Conference on Computer Vision (ICCV'25)<br>
 
 ### Journals
 * Transactions on Machine Learning Research<br>

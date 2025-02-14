@@ -2,12 +2,12 @@
 layout: page
 title: Publications
 permalink: /publications/
-update: "Last Updated: 1/2/25"
+update: "Last Updated: 2/13/25"
 ---
 
 ### Refereed Conference Proceedings
 **Keith G. Mills**, Mohammad Salameh, Ruichen Chen, Negar Hassanpour, Wei Lu and Di Niu. <a href="../assets/papers/Qua2SeDiMo_AAAI25.pdf">"Qua<sup>2</sup>SeDiMo: Quantifiable Quantization Sensitivity of Diffusion Models"</a>, accepted to the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25; 23.4% acceptance rate).<br>
-[<a href="../projects/qua2sedimo">Project Page</a>]
+[<a href="../projects/qua2sedimo">Project Page</a>][<a href="../assets/posters/Qua2SeDiMo_AAAI25_poster.pdf">Poster</a>][<a href="../assets/slides/Qua2SeDiMo_AAAI25_slides.pdf">Slides</a>]
 
 Shengyao Lu, Bang Liu, **Keith G. Mills**, Jiao He and Di Niu. <a href="../assets/papers/EiG-Search_ICML24.pdf">"EiG-Search: Generating Edge-Induced Subgraphs for GNN Explanation in Linear Time"</a>, accepted to the Forty-first International Conference on Machine Learning (ICML'24; 27.5% acceptance rate).<br>
 [<a href="https://icml.cc/media/PosterPDFs/ICML%202024/34471.png?t=1718314897.8662622">Poster</a>]
