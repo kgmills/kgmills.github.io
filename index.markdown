@@ -6,7 +6,7 @@
 
 layout: home
 list_title: ' '
-update: "Last Updated: 1/24/25"
+update: "Last Updated: 3/15/25"
 ---
 
 
@@ -18,7 +18,7 @@ update: "Last Updated: 1/24/25"
         </td>
         <td>
             <p>
-                <b>PhD Candidate, E.I.T.</b><br>
+                <b>Ph.D., E.I.T.</b><br>
                 Department of Electrical and Computer Engineering <br>
                 University of Alberta <br>
                 <b>Email</b>: <a href="kgmills@ualberta.ca">kgmills@ualberta.ca </a> <br>
@@ -30,10 +30,10 @@ update: "Last Updated: 1/24/25"
 </table>
 
 ## Hello World!
-I'm a PhD Candidate at the ECE Department of the University of Alberta (UAlberta). My research issues include Interpretable Neural Architecture Search and Efficient Machine Learning!
+I recently defended my PhD thesis at the ECE Department of the University of Alberta (UAlberta). My research issues include Interpretable and Efficient Machine Learning using techniques such as neural architecture search and model compression!
 
 ## A More Formal Bio
-Keith G. Mills is a PhD Candidate at the Department of Electrical and Computer
+Keith G. Mills obtained his PhD from the Department of Electrical and Computer
 Engineering at the University of Alberta under the supervision of
 <a href="https://sites.ualberta.ca/~dniu/Homepage/Home.html">Professor Di Niu</a>. He received his MSc. in Computer Engineering from the
 University of Alberta in 2020 and his BSc. in Computer Engineering, with

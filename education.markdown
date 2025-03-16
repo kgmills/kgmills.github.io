@@ -2,12 +2,12 @@
 layout: page
 title: Education
 permalink: /Education/
-update: "Last Updated: 6/4/24"
+update: "Last Updated: 3/15/24"
 ---
 
-**PhD. Software Engineering and Intelligent Systems** Jan 2021 - Ongoing <br>
+**Ph.D. Software Engineering and Intelligent Systems** Jan 2021 - March 2025 <br>
 Department of Electrical and Computer Engineering, University of Alberta. <br>
-Doctorial Candidacy Exam completed Dec 8th, 2023.<br>
+Thesis: "Automated and Efficient Deep Neural Network Design %and Compression via Quantifiable Data Science" <br>
 Advisor: Di Niu
 
 **MSc. Computer Engineering** Sept 2018 - Dec 2020 <br>
