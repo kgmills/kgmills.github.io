@@ -7,7 +7,7 @@ update: "Last Updated: 3/15/24"
 
 **Ph.D. Software Engineering and Intelligent Systems** Jan 2021 - March 2025 <br>
 Department of Electrical and Computer Engineering, University of Alberta. <br>
-Thesis: "Automated and Efficient Deep Neural Network Design %and Compression via Quantifiable Data Science" <br>
+Thesis: "Automated and Efficient Deep Neural Network Design and Compression via Quantifiable Data Science," *nominated for the George Walker Award for Best Doctoral Thesis*<br> 
 Advisor: Di Niu
 
 **MSc. Computer Engineering** Sept 2018 - Dec 2020 <br>
