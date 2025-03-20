@@ -59,4 +59,4 @@ Chenglin Li, **Keith Mills**, Rui Zhu, Di Niu, Hongwen Zhang and Husam Kinawi. <
 
 
 ### Preprints
-Ruichen Chen, **Keith G. Mills** and Di Niu. <a href="../assets/papers/FP4DiT_arxiv.pdf">"FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transofmers."</a> 
+Ruichen Chen, **Keith G. Mills** and Di Niu. <a href="https://arxiv.org/pdf/2503.15465">"FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transofmers."</a> 
