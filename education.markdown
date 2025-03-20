@@ -2,7 +2,7 @@
 layout: page
 title: Education
 permalink: /Education/
-update: "Last Updated: 3/15/24"
+update: "Last Updated: 3/19/25"
 ---
 
 **Ph.D. Software Engineering and Intelligent Systems** Jan 2021 - March 2025 <br>
