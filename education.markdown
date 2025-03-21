@@ -2,13 +2,14 @@
 layout: page
 title: Education
 permalink: /Education/
-update: "Last Updated: 3/19/25"
+update: "Last Updated: 3/21/25"
 ---
 
 **Ph.D. Software Engineering and Intelligent Systems** Jan 2021 - March 2025 <br>
 Department of Electrical and Computer Engineering, University of Alberta. <br>
 Thesis: "Automated and Efficient Deep Neural Network Design and Compression via Quantifiable Data Science," *nominated for the George Walker Award for Best Doctoral Thesis*<br> 
-Advisor: Di Niu
+Advisor: Di Niu<br>
+**Note**: Will be available on <a href="https://era.library.ualberta.ca/communities/db9a4e71-f809-4385-a274-048f28eb6814/collections/f42f3da6-00c3-4581-b785-63725c33c7ce">ERA</a> June 15th, 2025.
 
 **MSc. Computer Engineering** Sept 2018 - Dec 2020 <br>
 Department of Electrical and Computer Engineering, University of Alberta. <br>
