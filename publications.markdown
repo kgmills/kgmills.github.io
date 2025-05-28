@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-update: "Last Updated: 4/14/25"
+update: "Last Updated: 5/28/25"
 ---
 
 ### Refereed Conference Proceedings
@@ -60,4 +60,6 @@ Chenglin Li, **Keith Mills**, Rui Zhu, Di Niu, Hongwen Zhang and Husam Kinawi. <
 
 
 ### Preprints
+Amirhosein Ghasemabadi, **Keith G. Mills**, Baochun Li and Di Niu. <a href="https://arxiv.org/abs/2505.20325">"Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence."</a>
+
 Ruichen Chen, **Keith G. Mills** and Di Niu. <a href="https://arxiv.org/pdf/2503.15465">"FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transofmers."</a> 
