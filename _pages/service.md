@@ -1,5 +1,5 @@
 ---
-permalink: /service
+permalink: /service/
 title: Academic Service
 author_profile: true
 ---
