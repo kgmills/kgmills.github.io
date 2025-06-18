@@ -6,9 +6,8 @@ author_profile: true
 
 **Ph.D. Software Engineering and Intelligent Systems** Jan 2021 - March 2025 <br>
 Department of Electrical and Computer Engineering, University of Alberta. <br>
-Thesis: "Automated and Efficient Deep Neural Network Design and Compression via Quantifiable Data Science." *Winner of the George Walker Award for Best Doctoral Thesis.*<br> 
+Thesis: <a href="https://ualberta.scholaris.ca/items/6a1704f1-81b0-43ec-b787-d0d3022c8084"> "Automated and Efficient Deep Neural Network Design and Compression via Quantifiable Data Science."</a><br> *Winner of the George Walker Award for Best Doctoral Thesis.*<br> 
 Advisor: <a href="https://sites.ualberta.ca/~dniu/Homepage/Home.html">Di Niu</a><br>
-**Note**: Will be available on <a href="https://era.library.ualberta.ca/communities/db9a4e71-f809-4385-a274-048f28eb6814/collections/f42f3da6-00c3-4581-b785-63725c33c7ce">ERA</a> June 15th, 2025.
 
 **MSc. Computer Engineering** Sept 2018 - Dec 2020 <br>
 Department of Electrical and Computer Engineering, University of Alberta. <br>
