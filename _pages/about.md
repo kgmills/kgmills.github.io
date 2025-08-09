@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Introduction
-Keith George Mills is an incoming Assistant Professor at the Division of Computer Science and Engineering (CSE) at Louisiana State University (LSU). He received his BSc. with Distinction and MSc. in Computer Engineering from University of Alberta in 2018 and 2020, respectively. He completed his Ph.D. in Software Engineering and Intelligent Systems from the University of Alberta in 2025. Keith's doctoral thesis, titled "Automated and Efficient Deep Neural Network Design via Quantifiable Data Science" was selected to receive the George Walker Award for Best Doctoral Thesis for UAlberta ECE.
+Keith George Mills is an Assistant Professor at the Division of Computer Science and Engineering (CSE) at Louisiana State University (LSU). He received his BSc. with Distinction and MSc. in Computer Engineering from University of Alberta in 2018 and 2020, respectively. He completed his Ph.D. in Software Engineering and Intelligent Systems from the University of Alberta in 2025. Keith's doctoral thesis, titled "Automated and Efficient Deep Neural Network Design via Quantifiable Data Science" was selected to receive the George Walker Award for Best Doctoral Thesis for UAlberta ECE.
 
 His research interests primarily lie in the domains of automated, efficient and interpetable/explainable machine learning through neural architecture search, model compression, graph theory and representation learning for applications primarily in computer vision and generative AI. 
 
