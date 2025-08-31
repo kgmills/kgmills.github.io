@@ -12,6 +12,14 @@ Keith George Mills is an Assistant Professor at the Division of Computer Science
 
 His research interests primarily lie in the domains of automated, efficient and interpetable/explainable machine learning through neural architecture search, model compression, graph theory and representation learning for applications primarily in computer vision and generative AI. 
 
-<div style="width:0px; margin:auto 0;">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=222&t=m&d=N-UhLNh1aPr-MNvJ51WE7W80gYu6JH8niQ-sYwR71Tk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
-</div>
+## Recent News
+<ul>
+{% for post in site.posts limit:5 %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span style="color:gray; font-size:0.9em;">{{ post.date | date: "%B %d, %Y" }}</span>
+  </li>
+{% endfor %}
+</ul>
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=r5Z6O1gcjjkI42JAX36E9tBUnnnqd8FCHDt7Ppoh4qU"></script>
