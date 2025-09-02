@@ -10,7 +10,9 @@ Granted, there is a good reason for this: Conservation of energy. These days its
 
 So, what did I do? Two things: I made my PhD a 'living document' and followed a checklist.
 
-First, at the start of my PhD program I made an overleaf copy of my MSc thesis, gutted the contents, and changed MSc -> PhD where applicable. Every time one of my papers got published, I added its LaTeX conference to my PhD thesis overleaf *after acceptance of the camera-ready manuscript to avoid insanity*. This meant my thesis content gradually grew over my program, rather than needing to all be cobbled together at the last minute.
+*Disclaimer:* I'm not saying this checklist got me the department-level award for best thesis. I got that award because my thesis contained 6 papers that had already been accepted to some conference - usually an A* one at that.
+
+First, at the start of my PhD program I made an overleaf copy of my MSc thesis, gutted the contents, and changed MSc -> PhD where applicable. Every time one of my papers got published, I added its LaTeX contents to my PhD thesis overleaf *after acceptance of the camera-ready manuscript to avoid insanity*. I also made sure all the floats/figures semi-worked, e.g., each paper was its own chapter, got its own folder in overleaf, so I had to adjust the paths in '\includegraphics' commands. This meant my thesis content gradually grew over my program, rather than needing to all be cobbled together at the last minute.
 
 Second, I put together a checklist of things to do, either across the entire thesis or to each manuscript as it was translated from standalone paper to thesis chapter. After I defended my thesis in Edmonton, Alberta and before I moved to Baton Rouge, Louisiana, I made a note to pass this list onto my future students. Originally, this was just a simple OneNote table:
 
