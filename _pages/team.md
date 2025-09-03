@@ -12,7 +12,7 @@ author_profile: true
       <img src="/images/joong_ho.jpeg" alt="Joong Ho Kim" width="1000" />
     </td>
     <td>
-        Joong Ho Kim is a CSE PhD Student at LSU under the supervision of Dr. Mills. Joong Ho obtained his BSc in Computer Science from the University of Wisconsin-Madison in 2022, and then later an MSc in Computer Science from California State University in San Bernadino, under the supervision of Dr. Bilal Khan, where he conducted applied research on AI for water filtration. His research interests and directions broadly relate to making AIGC models more effective and efficient. 
+        Joong Ho Kim is a CSE PhD Student at LSU under the supervision of Dr. Mills. Joong Ho obtained his BSc in Computer Science from the University of Wisconsin-Madison in 2022, and then later an MSc in Computer Science from California State University in San Bernadino, under the supervision of Dr. Bilal Khan, where he also completed a Summer Research Fellowship at UC Riverside. His research interests and directions broadly relate to making AIGC models more effective and efficient. 
     </td>
   </tr>
   <tr>
