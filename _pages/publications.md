@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ### Refereed Conference Proceedings
+Ruichen Chen, **Keith G. Mills**, Liyao Jiang, Chao Gao and Di Niu. <a href="https://arxiv.org/abs/2505.22918">"Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape,"</a> accepted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25; 24.5%).
+
 **Keith G. Mills**, Mohammad Salameh, Ruichen Chen, Negar Hassanpour, Wei Lu and Di Niu. <a href="../assets/papers/Qua2SeDiMo_AAAI25.pdf">"Qua<sup>2</sup>SeDiMo: Quantifiable Quantization Sensitivity of Diffusion Models"</a>. In Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25; 23.4% acceptance rate), pages 6153-6163.
 <br>
 [<a href="../projects/qua2sedimo">Project Page</a>][<a href="../assets/posters/Qua2SeDiMo_AAAI25_poster.pdf">Poster</a>][<a href="../assets/slides/Qua2SeDiMo_AAAI25_slides.pdf">Slides</a>]
@@ -59,9 +61,7 @@ Chenglin Li, **Keith Mills**, Rui Zhu, Di Niu, Hongwen Zhang and Husam Kinawi. <
 
 
 ### Preprints
-Azanzi Jiomekong, Hande Küçük McGinty, **Keith G. Mills**, Allard Oelen, Enayat Rajabi, Harry McElroy, Antrea Christou, Anmol Saini, Janice Anta Zebaze, Hannah Kim, Anna. M. Jacyszyn and Sören Auer. <a href="https://arxiv.org/abs/2509.02581">"Charting the Future of Scholarly Knowledge with AI: A Community Perspective."
-
-Ruichen Chen, **Keith G. Mills**, Liyao Jiang, Chao Gao and Di Niu. <a href="https://arxiv.org/abs/2505.22918">"Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape."</a>
+Azanzi Jiomekong, Hande Küçük McGinty, **Keith G. Mills**, Allard Oelen, Enayat Rajabi, Harry McElroy, Antrea Christou, Anmol Saini, Janice Anta Zebaze, Hannah Kim, Anna. M. Jacyszyn and Sören Auer. <a href="https://arxiv.org/abs/2509.02581">"Charting the Future of Scholarly Knowledge with AI: A Community Perspective."</a>
 
 Amirhosein Ghasemabadi, **Keith G. Mills**, Baochun Li and Di Niu. <a href="https://arxiv.org/abs/2505.20325">"Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence."</a>
 
