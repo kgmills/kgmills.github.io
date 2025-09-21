@@ -17,7 +17,7 @@ The speed and throughput of the AI/ML community is reaching levels akin to ["lud
 I am impelled to give thanks and a shout-out to my co-authors, especially [Ruichen Chen](https://scholar.google.com/citations?user=WHiR96wAAAAJ&hl=en&oi=ao), [Liyao Jiang](https://scholar.google.com/citations?user=OSpqcyoAAAAJ&hl=en), [Dr. Chao Gao](https://cgao3.github.io/) and my former advisor, [Professor Di Niu](https://sites.ualberta.ca/~dniu/Homepage/Home.html) from the Department of Electrical and Computer Engineering at the University of Alberta! Very grateful to have had the pleasure of working with you on this collaboration! 
 
 <p align="center">
-    <img src="/images/Rettention_sloth_thumbnail.png" width="400" alt="Rettention Sloth Thumbnail">
+    <video src="/images/Rettention_sloth.webm" width="400" autoplay loop muted playsinline alt="Rettention Sloth Animation"></video>
 </p>
 
 **Note:** This is a copy of my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7374569785222885376/) on this announcement. 
