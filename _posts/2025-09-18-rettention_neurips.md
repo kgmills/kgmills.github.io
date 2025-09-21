@@ -1,7 +1,7 @@
 ---
 title: "Re-ttention Accepted to NeurIPS'25"
 date: 2025-09-18 09:00:00 -0500
-categories: grants and publications
+categories: publications neurips academic
 layout: single
 author_profile: true
 ---

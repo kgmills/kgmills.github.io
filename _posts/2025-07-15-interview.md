@@ -1,7 +1,7 @@
 ---
 title: "Interview with the LSU Office of Research and Economic Development"
 date: 2025-07-14 09:00:00 -0500
-categories: talks and interviews
+categories: talks interviews
 layout: single
 author_profile: true
 ---
