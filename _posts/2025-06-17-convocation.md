@@ -1,7 +1,7 @@
 ---
 title: "Convocation & Best Thesis Award"
 date: 2025-06-17 23:00:00 -0600
-categories: academic awards
+categories: awards
 layout: single
 author_profile: true
 ---
