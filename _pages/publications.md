@@ -50,6 +50,8 @@ Seyed Saeed Changiz Rezaei, Fred X. Han, Di Niu, Mohammad Salameh, **Keith Mills
 [<a href="https://ijcai-21.org/videos-slides/?video=3345">Videos and Slides</a>]
 
 ### Refereed Journal Publications
+Ruichen Chen, **Keith G. Mills** and Di Niu. <a href="https://arxiv.org/pdf/2503.15465">"FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transofmers,"</a> published in Transactions of Machine Learning Research (TMLR), Oct. 2025. 
+
 **Keith G. Mills**, Mohammad Salameh, Di Niu, Fred X. Han, Seyed Saeed Changiz Rezaei, Hengshuai Yao, Wei Lu, Shuo Lian and Shangling Jui. <a href="../assets/papers/DDAS_IEEEAccess.pdf">"Exploring Neural Architecture Search Space via Deep Deterministic Sampling,"</a> published in IEEE Access, Vol. 9 (2021), pages 110962-110974.
 
 Chenglin Li, **Keith Mills**, Rui Zhu, Di Niu, Hongwen Zhang and Husam Kinawi. <a href="../assets/papers/Android_Malware_Factorization_IEEEAccess.pdf">"Android Malware Detection based on Factorization Machine,"</a> published in IEEE Access, Vol. 7 (2019), pages 184008-184019.
@@ -64,5 +66,3 @@ Chenglin Li, **Keith Mills**, Rui Zhu, Di Niu, Hongwen Zhang and Husam Kinawi. <
 Azanzi Jiomekong, Hande Küçük McGinty, **Keith G. Mills**, Allard Oelen, Enayat Rajabi, Harry McElroy, Antrea Christou, Anmol Saini, Janice Anta Zebaze, Hannah Kim, Anna. M. Jacyszyn and Sören Auer. <a href="https://arxiv.org/abs/2509.02581">"Charting the Future of Scholarly Knowledge with AI: A Community Perspective."</a>
 
 Amirhosein Ghasemabadi, **Keith G. Mills**, Baochun Li and Di Niu. <a href="https://arxiv.org/abs/2505.20325">"Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence."</a>
-
-Ruichen Chen, **Keith G. Mills** and Di Niu. <a href="https://arxiv.org/pdf/2503.15465">"FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transofmers."</a> 
