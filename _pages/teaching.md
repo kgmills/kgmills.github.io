@@ -3,10 +3,9 @@ permalink: /teaching/
 title: Teaching
 author_profile: true
 ---
-
 ### Upcoming/Current Courses @LSU
-CSC 2730 Data Science and Analytics - Fall 2025<br>
-CSC 4444 Artificial Intelligence - Spring 2026<br>
+[CSC 2730 Data Science and Analytics](https://catalog.lsu.edu/preview_course_nopop.php?catoid=33&coid=224445) - Fall 2025<br>
+[CSC 4444 Artificial Intelligence](https://catalog.lsu.edu/preview_course_nopop.php?catoid=33&coid=224075) - Spring 2026<br>
 
 ### Prior Teaching Experience @UAlberta
 **Lecture Teaching Assistant, ECE 492, Computer Engineering Design Project, Winter 2021**<br>
