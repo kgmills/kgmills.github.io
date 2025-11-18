@@ -50,7 +50,7 @@ Seyed Saeed Changiz Rezaei, Fred X. Han, Di Niu, Mohammad Salameh, **Keith Mills
 [<a href="https://ijcai-21.org/videos-slides/?video=3345">Videos and Slides</a>]
 
 ### Refereed Journal Publications
-Ruichen Chen, **Keith G. Mills** and Di Niu. <a href="https://arxiv.org/pdf/2503.15465">"FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transofmers,"</a> published in Transactions of Machine Learning Research (TMLR), Oct. 2025. 
+Ruichen Chen, **Keith G. Mills** and Di Niu. <a href="../assets/papers/FP4DiT_TMLR_11_25.pdf">FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transofmers,"</a> published in Transactions of Machine Learning Research (TMLR), November 2025. 
 
 **Keith G. Mills**, Mohammad Salameh, Di Niu, Fred X. Han, Seyed Saeed Changiz Rezaei, Hengshuai Yao, Wei Lu, Shuo Lian and Shangling Jui. <a href="../assets/papers/DDAS_IEEEAccess.pdf">"Exploring Neural Architecture Search Space via Deep Deterministic Sampling,"</a> published in IEEE Access, Vol. 9 (2021), pages 110962-110974.
 
