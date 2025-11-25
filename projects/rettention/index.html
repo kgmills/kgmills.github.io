@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="Ultra Sparse Visual Generation via Attention Statistical Reshape">
+  <meta property="og:title" content="Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape"/>
+  <meta property="og:description" content="Ultra Sparse Visual Generation via Attention Statistical Reshape"/>
+  <meta property="og:url" content="https://kgmills.github.io/projects/rettention"/>
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+
+
+  <meta name="twitter:title" content="Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape">
+  <meta name="twitter:description" content="Ultra Sparse Visual Generation via Attention Statistical Reshape">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="diffusion models, sparse attention, text-to-video generation, text-to-image generation">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>Re-ttention@NeurIPS'25</title>
+  <link rel="icon" type="image/x-icon" href="/images/Rettention_sloth_thumbnail.png">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+<body>
+
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape</h1>
+            <div class="is-size-5 publication-authors">
+              <!-- Paper authors -->
+              <span class="author-block">
+                  <a href="https://scholar.google.ca/citations?user=WHiR96wAAAAJ&hl=en&oi=ao" target="_blank">Ruichen Chen</a><sup>1</sup>,</span>
+                  <a href="https://kgmills.github.io/" target="_blank">Keith G. Mills</a><sup>2</sup>,</span>
+                <span class="author-block">
+                  <a href="https://scholar.google.com/citations?user=OSpqcyoAAAAJ&hl=en&oi=ao" target="_blank">Liyao Jiang</a><sup>1</sup>,</span>
+                  <a href="https://cgao3.github.io/"target="_blank">Chao Gao</a><sup>3</sup>,</span>
+                  <a href="https://sites.ualberta.ca/~dniu/Homepage/Home.html" target="_blank">Di Niu</a><sup>1</sup>,</span>
+
+                  </div>
+
+                  <div class="is-size-5 publication-authors">
+                    <span class="author-block"><sup>1</sup>Department of Electrical and Computer Engineering, University of Alberta<br>
+                      <sup>2</sup>Division of Computer Science and Engineering, Louisiana State University<br>
+                      <sup>3</sup>Huawei Technologies, Canada<br>
+                        <em>Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25)</em></span>
+                  </div>
+
+                  <div class="column has-text-centered">
+                    <div class="publication-links">
+                         <!-- Arxiv PDF link -->
+                      <span class="link-block">
+                        <a href="https://arxiv.org/abs/2505.22918" target="_blank"
+                        class="external-link button is-normal is-rounded is-dark">
+                        <span class="icon">
+                          <i class="fas fa-file-pdf"></i>
+                        </span>
+                        <span>Paper</span>
+                      </a>
+                    </span>
+
+                  <!-- Github link -->
+                  <span class="link-block">
+                    <a href="https://github.com/cccrrrccc/Re-ttention" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- Teaser video/picture-->
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <div style="text-align: center;">
+        <video controls style="max-width:100%; height:auto;">
+          <source src="static/images/Rettention_sloth.webm" type="video/webm">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+      <h2 class="subtitle has-text-centered">
+        We introduce Re-ttention, a training-free ultra-sparse attention reshape technique for T2V and T2I DiT that allows us to recover the full attention distribution even under extreme sparsity. By reshaping sparse attention with cached statistics across denoising steps, Re-ttention preserves full-attention visual quality for both T2V and T2I generation while skipping over 95% of attention computation. 
+      </h2>
+    </div>
+  </div>
+</section>
+<!-- End teaser video -->
+
+<!-- Paper abstract -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Diffusion Transformers (DiT) have become the de-facto model for generating high-quality visual content like videos and images. A huge bottleneck is the attention mechanism where complexity scales quadratically with resolution and video length. One logical way to lessen this burden is sparse attention, where only a subset of tokens or patches are included in the calculation. However, existing techniques fail to preserve visual quality at extremely high sparsity levels and might even incur non-negligible compute overheads. To address this concern, we propose Re-ttention, which implements very high sparse attention for visual generation models by leveraging the temporal redundancy of Diffusion Models to overcome the probabilistic normalization shift within the attention mechanism. Specifically, Re-ttention reshapes attention scores based on the prior softmax distribution history in order to preserve the visual quality of the full quadratic attention at very high sparsity levels. Experimental results on T2V/T2I models such as CogVideoX and the PixArt DiTs demonstrate that Re-ttention requires as few as 3.1% of the tokens during inference, outperforming contemporary methods like FastDiTAttn, Sparse VideoGen and MInference.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End paper abstract -->
+
+<div class="hero-body">
+  <div class="container" style="text-align: center;">
+    <image src="static/images/rettention.png" height="424" width="774"></image>
+        <h2 class="subtitle has-text-centered" style="text-align: center; width: 50vw; margin:auto;">
+          We highlight the core mechanism behind Re-ttention: by reusing the stable ratio between sparse and full softmax denominators and caching the residual contributions from masked-out tokens, Re-ttention reconstructs the full attention distribution at ultra-high sparsity.
+        </h2>
+  </div>
+</div>
+
+
+<!-- Image carousel -->
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container">
+      <style>
+        #results-carousel .item img {
+          width:100%;
+          max-width:1100px;
+          height:auto;
+          display:block;
+          margin:0 auto;
+        }
+      </style>
+      <div id="results-carousel" class="carousel results-carousel">
+        <div class="item has-text-centered">
+          <img src="static/images/T2V_butterfly.png" alt="T2V butterfly" loading="lazy"/>
+          <h2 class="subtitle has-text-centered">
+            T2V results at >95% sparsity on CogVideoX with Re-ttention, compared to contemporary sparse attention methods.
+          </h2>
+        </div>
+        <div class="item has-text-centered">
+          <img src="static/images/T2I.png" alt="T2I results" loading="lazy"/>
+          <h2 class="subtitle has-text-centered">
+            T2I results on PixArt-α and PixArt-Σ DiTs at various sparsity levels using prompts from MS-COCO, compared to contemporary sparse attention methods.
+          </h2>
+        </div>
+        <div class="item has-text-centered">
+          <img src="static/images/Geneval_Sparsity.png" alt="Geneval sparsity comparison" loading="lazy"/>
+          <h2 class="subtitle has-text-centered">
+            Re-ttention delivers the highest visual quality at >95 sparsity—significantly outperforming existing training-free sparse attention methods.
+          </h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End image carousel -->
+
+
+<!--BibTex citation -->
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>@inproceedings{chen2025rettention,
+        title = {Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape},
+        author = {Chen, Ruichen and Mills, Keith G., and Jiang, Liyao and Gao, Chao and Niu, Di},
+        booktitle={Advances in Neural Information Processing Systems},
+        year={2025}
+      }</code></pre>
+    </div>
+</section>
+<!--End BibTex citation -->
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Statcounter tracking code -->
+  
+<!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+
+    <!-- End of Statcounter Code -->
+
+  </body>
+  </html>

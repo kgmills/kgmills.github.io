@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 ### Refereed Conference Proceedings
-Ruichen Chen, **Keith G. Mills**, Liyao Jiang, Chao Gao and Di Niu. <a href="https://arxiv.org/abs/2505.22918">"Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape,"</a> accepted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25; 24.5% acceptance rate).
+Ruichen Chen, **Keith G. Mills**, Liyao Jiang, Chao Gao and Di Niu. <a href="https://arxiv.org/abs/2505.22918">"Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape,"</a> accepted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25; 24.5% acceptance rate).<br>
+[<a href="../projects/rettention">Project Page</a>]
 
 **Keith G. Mills**, Mohammad Salameh, Ruichen Chen, Negar Hassanpour, Wei Lu and Di Niu. <a href="../assets/papers/Qua2SeDiMo_AAAI25.pdf">"Qua<sup>2</sup>SeDiMo: Quantifiable Quantization Sensitivity of Diffusion Models"</a>. In Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25; 23.4% acceptance rate), pages 6153-6163.
 <br>
