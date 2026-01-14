@@ -28,7 +28,10 @@ author_profile: true
 **Recruiting**
 
 At the moment, I have a checklist of **three** items for prospective students:
+
 1) In the subject line of your email, mention the name of my research group at LSU CSE
+
 2) In the body of your email, explicitly mention what topic you are interested in working on and how I am a good fit to be your advisor on that topic.
+
 3) Before hitting send, read <a href="https://www.linkedin.com/posts/baggili_phd-graduateschool-academia-activity-7417015846474153984-DxtE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB8vwT0BxUvELhKw3qS9h5i_NJ3R4dt-2Xg">this wonderful post by the LSU CSE Chairman,</a> Dr. Abe Baggili, as well as the comment I left on the post. Then, revise your email to incorporate the tips and avoid pitfalls.  
 
