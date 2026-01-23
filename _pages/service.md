@@ -11,12 +11,14 @@ author_profile: true
 
 ### Conferences
 
-* Forty-Second International Conference on Machine Learning (ICML'25)<br>
-* Thirteenth International Conference on Learning Representations (ICLR'25)<br>
-* Thirty-Ninth Annual AAAI Conference on Artificial Intelligence (AAAI-25)<br>
-* Twenty-Eighth International Conference on Artificial Intelligence and Statistics (AISTATS'25)<br>
-* IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'24-25)<br>
-* International Conference on Computer Vision (ICCV'25)<br>
+* Neural Information Processing Systems (NeurIPS)<br>
+* IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)<br>
+* Eighteenth European Conference on Computer Vision (ECCV)<br>
+* International Conference on Computer Vision (ICCV)<br>
+* International Conference on Machine Learning (ICML)<br>
+* International Conference on Learning Representations (ICLR)<br>
+* Annual AAAI Conference on Artificial Intelligence (AAAI)<br>
+* International Conference on Artificial Intelligence and Statistics (AISTATS)<br>
 
 ### Journals
 * Transactions on Machine Learning Research<br>
