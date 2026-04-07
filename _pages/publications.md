@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ### Refereed Conference Proceedings
+Amirhosein Ghasemabadi, **Keith G. Mills**, Baochun Li and Di Niu. <a href="https://arxiv.org/abs/2505.20325">"Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence,"</a> accepted to The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26; 19.0%).<br>
+[<a href="https://huggingface.co/papers/2505.20325">Project Page</a>]
+
 Ruichen Chen, **Keith G. Mills**, Liyao Jiang, Chao Gao and Di Niu. <a href="https://arxiv.org/abs/2505.22918">"Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape,"</a> accepted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25; 24.5% acceptance rate).<br>
 [<a href="../projects/rettention">Project Page</a>][<a href="../assets/posters/Rettention_NeurIPS25_poster.pdf">Poster</a>]
 
@@ -67,5 +70,3 @@ Chenglin Li, **Keith Mills**, Rui Zhu, Di Niu, Hongwen Zhang and Husam Kinawi. <
 Joong Ho Kim, Nicholas Thai, Souhardya Saha Dip, Dong Lao and Keith G. Mills. <a href="https://arxiv.org/abs/2603.12506">"Naïve PAINE: Lightweight Text-to-Image Generation Improvement with Prompt Evaluation."</a>
 
 Azanzi Jiomekong, Hande Küçük McGinty, **Keith G. Mills**, Allard Oelen, Enayat Rajabi, Harry McElroy, Antrea Christou, Anmol Saini, Janice Anta Zebaze, Hannah Kim, Anna. M. Jacyszyn and Sören Auer. <a href="https://arxiv.org/abs/2509.02581">"Charting the Future of Scholarly Knowledge with AI: A Community Perspective."</a>
-
-Amirhosein Ghasemabadi, **Keith G. Mills**, Baochun Li and Di Niu. <a href="https://arxiv.org/abs/2505.20325">"Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence."</a>
