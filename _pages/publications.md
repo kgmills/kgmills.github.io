@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ### Refereed Conference Proceedings
-Amirhosein Ghasemabadi, **Keith G. Mills**, Baochun Li and Di Niu. <a href="https://arxiv.org/abs/2505.20325">"Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence,"</a> accepted to The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26; 19.0%).<br>
+Amirhosein Ghasemabadi, **Keith G. Mills**, Baochun Li and Di Niu. <a href="../assets/papers/GG_ACL26.pdf">"Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence,"</a> accepted to The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26; 19.0%).<br>
 [<a href="https://huggingface.co/papers/2505.20325">Project Page</a>]
 
 Ruichen Chen, **Keith G. Mills**, Liyao Jiang, Chao Gao and Di Niu. <a href="https://arxiv.org/abs/2505.22918">"Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape,"</a> accepted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25; 24.5% acceptance rate).<br>
