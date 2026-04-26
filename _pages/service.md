@@ -4,7 +4,15 @@ title: Academic Service
 author_profile: true
 ---
 
-## Peer Review Services
+## Organization and Editorialism
+
+### Conference Area Chair
+* Neural Information Processing Systems (NeurIPS)<br>
+
+### Organizing Committee
+* Second Bridge on AI for Scholarly Communication (AI4SC @ AAAI-26)
+
+## Peer Review
 
 ### Service Awards and Recognition
 * Top Reviewer for the 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24)<br>
