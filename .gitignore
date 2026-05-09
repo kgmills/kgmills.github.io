@@ -14,3 +14,9 @@ package-lock.json
 
 # Ignore the vendor file and bundle for alternative installation
 .bundle/
+
+# Ignore .DS_Store files created by macOS
+.DS_Store
+
+# Ignore .jekyll-cache directory created by Jekyll
+.jekyll-cache/
