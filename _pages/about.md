@@ -12,8 +12,6 @@ Keith George Mills is an Assistant Professor at the Division of Computer Science
 
 Dr. Mills' primary research interests lie in the intersection of efficient, automated and interpretable machine learning. At the moment he is primarily focused on initial noise optimization for Diffusion Models and graph-based Neural Architecture Search. He is also interested in using AI/ML to model chemical/physical design processes, power delivery, as well as AI for education. 
 
-His research interests primarily lie in the domains of automated, efficient and interpetable/explainable machine learning through neural architecture search, model compression, graph theory and representation learning for applications primarily in computer vision and generative AI. 
-
 Dr. Mills received his BSc. with Distinction and MSc. in Computer Engineering from University of Alberta in 2018 and 2020, respectively. He completed his Ph.D. in Software Engineering and Intelligent Systems from the University of Alberta in 2025. Dr. Mills' doctoral thesis, titled "Automated and Efficient Deep Neural Network Design via Quantifiable Data Science" was selected to receive the George Walker Award for Best Doctoral Thesis for UAlberta ECE.
 
 
