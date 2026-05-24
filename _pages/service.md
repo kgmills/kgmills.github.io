@@ -27,6 +27,7 @@ author_profile: true
 * International Conference on Learning Representations (ICLR)<br>
 * Annual AAAI Conference on Artificial Intelligence (AAAI)<br>
 * International Conference on Artificial Intelligence and Statistics (AISTATS)<br>
+* IEEE International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS)<br>
 
 ### Journals
 * Transactions on Machine Learning Research<br>
