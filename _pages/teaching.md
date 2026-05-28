@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ### Course Responsibilities @LSU
+[CSC 7344 Foundational AI](https://online.lsu.edu/online-degree-programs/graduate/ms-computer-science/)<br>- *Taught occasionally*
+
 [CSC 4700 Special Topics in CS: AI & LLM Development](https://www.linkedin.com/posts/kgmills_ai-showcase-csc4700-ugcPost-7457789060443521024-7-DC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB8vwT0BxUvELhKw3qS9h5i_NJ3R4dt-2Xg)<br>- *Taught occasionally*
 
 [CSC 4444 Artificial Intelligence](https://www.linkedin.com/posts/kgmills_csc4444-artificialintelligence-ai-ugcPost-7456367154570092544-xppm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB8vwT0BxUvELhKw3qS9h5i_NJ3R4dt-2Xg)<br>- *Taught in Spring Semester*
