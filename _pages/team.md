@@ -23,7 +23,7 @@ author_profile: true
 <table>
   <tr>
     <td>
-      <img src="/images/aedan_j_defrates.png" alt="Aedan J. DeFrates" width="1000" />
+      <img src="/images/aedan_j_defrates.png" alt="Aedan J. DeFrates" width="800" />
     </td>
     <td>
         Aedan J. DeFrates is a Computer Science SWE student at LSU pursuing his bachelor's degree with a minor in Mathematics. Aedan works under Dr. Mills on Graph Neural Network (GNN) research. His interest in this field developed while simultaneously studying Theory of Graphs and Artificial Intelligence, which sparked his curiosity about the connections between graph theory and AI.
