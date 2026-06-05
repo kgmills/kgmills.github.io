@@ -34,7 +34,7 @@ author_profile: true
       <img src="/images/esanders.jpeg" alt="Evan Sanders" width="450" />
     </td>
     <td>
-        Evan Sanders is a student at the Episcopal High School of Baton Rouge (EHSBR). After completing Grade 11, he joined Dr. Mills' ATHENA Lab for summer 2026 under EHSBR's ESTAAR program, coordinated by Dr. Jeff McClean.
+        Evan Sanders is a student at the Episcopal High School of Baton Rouge (EHSBR class of 2027). After completing Grade 11, he joined Dr. Mills' ATHENA Lab for summer 2026 under EHSBR's ESTAAR program, coordinated by Dr. Jeff McClean. His interests pertain to programming languages such as C# & C++, computer graphics, AI systems.
     </td>
   </tr>
 </table>
