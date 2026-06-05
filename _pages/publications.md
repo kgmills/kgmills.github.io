@@ -69,6 +69,8 @@ Chenglin Li, **Keith Mills**, Rui Zhu, Di Niu, Hongwen Zhang and Husam Kinawi. <
 
 
 ### Preprints
+Joong Ho Kim and **Keith G. Mills**. <a href="https://arxiv.org/abs/2606.05478">"Can We Predict The Human Preference For Text-to-Image Content Prior To Generation And Is It Even Useful To Do So?"</a>
+
 Shengyao Lu, Jiuding Yang, Aedan J. DeFrates, **Keith G. Mills**, Baochun Li and Di Niu. <a href="https://arxiv.org/pdf/2503.09051">"Model-Level GNN Explanations via Rule-to-Graph Readout for Logit Reconstruction."</a>
 
 Joong Ho Kim, Nicholas Thai, Souhardya Saha Dip, Dong Lao and **Keith G. Mills**. <a href="https://arxiv.org/abs/2603.12506">"Naïve PAINE: Lightweight Text-to-Image Generation Improvement with Prompt Evaluation."</a>
