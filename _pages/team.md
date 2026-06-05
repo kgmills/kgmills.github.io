@@ -4,7 +4,7 @@ title: Team and Recruiting
 author_profile: true
 ---
 
-**Current PhD Students**
+**Current Team**
 
 <table>
   <tr>
@@ -17,9 +17,6 @@ author_profile: true
   </tr>
 </table>
 
-
-**Current BSc Students**
-
 <table>
   <tr>
     <td>
@@ -27,6 +24,17 @@ author_profile: true
     </td>
     <td>
         Aedan J. DeFrates is a Computer Science SWE student at LSU pursuing his bachelor's degree with a minor in Mathematics. Aedan works under Dr. Mills on Graph Neural Network (GNN) research. His interest in this field developed while simultaneously studying Theory of Graphs and Artificial Intelligence, which sparked his curiosity about the connections between graph theory and AI.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="/images/esanders.jpeg" alt="Evan Sanders" width="800" />
+    </td>
+    <td>
+        Evan Sanders is a student at the Episcopal High School of Baton Rouge (EHSBR). After completing Grade 11, he joined Dr. Mills' ATHENA Lab for summer 2026 under EHSBR's ESTAAR program, coordinated by Dr. Jeff McClean.
     </td>
   </tr>
 </table>
