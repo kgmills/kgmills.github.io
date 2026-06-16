@@ -14,6 +14,16 @@ Dr. Mills' primary research interests lie in the intersection of efficient, auto
 
 Dr. Mills received his BSc. with Distinction and MSc. in Computer Engineering from University of Alberta in 2018 and 2020, respectively. He completed his Ph.D. in Software Engineering and Intelligent Systems from the University of Alberta in 2025. Dr. Mills' doctoral thesis, titled "Automated and Efficient Deep Neural Network Design via Quantifiable Data Science" was selected to receive the George Walker Award for Best Doctoral Thesis for UAlberta ECE.
 
+**Recruiting**
+
+I am actively recruiting self-motivated PhD and MSc students with strong technical skills. Topics include:  
+* Efficient and Hardware-Aware AI Computing
+* AutoML and Neural Architecture Search
+* Explainable and Interpretable AI
+* Applications of AI and Agentic Systems
+
+I am primarily targetting intake for Spring 2027. Exceptional candidates interested in Fall 2026 admission are also encouraged to apply. <a href="assets/recruiting/athena_hiring.pdf">Please consult the ATHENA application guidelines when reaching out.</a>
+
 
 ## Recent News
 <ul>
