@@ -3,6 +3,7 @@ permalink: /publications/
 title: Publications
 author_profile: true
 ---
+For author list, **bold** indicates my position; *italics* indicates the names of my students and * indicates equal contribution amongst 2+ authors.
 
 ### Refereed Conference Proceedings
 Amirhosein Ghasemabadi, **Keith G. Mills**, Baochun Li and Di Niu. <a href="../assets/papers/GG_ACL26.pdf">"Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence,"</a> accepted to The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26; 19.0%).<br>
@@ -69,11 +70,11 @@ Chenglin Li, **Keith Mills**, Rui Zhu, Di Niu, Hongwen Zhang and Husam Kinawi. <
 
 
 ### Preprints
-Joong Ho Kim and **Keith G. Mills**. <a href="https://arxiv.org/abs/2606.05478">"Can We Predict The Human Preference For Text-to-Image Content Prior To Generation And Is It Even Useful To Do So?"</a>
+*Joong Ho Kim* and **Keith G. Mills**. <a href="https://arxiv.org/abs/2606.05478">"Can We Predict The Human Preference For Text-to-Image Content Prior To Generation And Is It Even Useful To Do So?"</a>
 
-Shengyao Lu, Jiuding Yang, Aedan J. DeFrates, **Keith G. Mills**, Baochun Li and Di Niu. <a href="https://arxiv.org/pdf/2503.09051">"Model-Level GNN Explanations via Rule-to-Graph Readout for Logit Reconstruction."</a>
+Shengyao Lu, Jiuding Yang, *Aedan J. DeFrates*, **Keith G. Mills**, Baochun Li and Di Niu. <a href="https://arxiv.org/pdf/2503.09051">"Model-Level GNN Explanations via Rule-to-Graph Readout for Logit Reconstruction."</a>
 
-Joong Ho Kim, Nicholas Thai, Souhardya Saha Dip, Dong Lao and **Keith G. Mills**. <a href="https://arxiv.org/abs/2603.12506">"Naïve PAINE: Lightweight Text-to-Image Generation Improvement with Prompt Evaluation."</a>
+*Joong Ho Kim, Nicholas Thai*, Souhardya Saha Dip, Dong Lao and **Keith G. Mills**. <a href="https://arxiv.org/abs/2603.12506">"Naïve PAINE: Lightweight Text-to-Image Generation Improvement with Prompt Evaluation."</a>
 
 Azanzi Jiomekong, Hande Küçük McGinty, **Keith G. Mills**, Allard Oelen, Enayat Rajabi, Harry McElroy, Antrea Christou, Anmol Saini, Janice Anta Zebaze, Hannah Kim, Anna. M. Jacyszyn and Sören Auer. <a href="https://arxiv.org/abs/2509.02581">"Charting the Future of Scholarly Knowledge with AI: A Community Perspective."</a>
 
