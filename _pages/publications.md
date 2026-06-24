@@ -27,7 +27,7 @@ Shengyao Lu, Bang Liu, **Keith G. Mills**, Jiao He and Di Niu. <a href="../asset
 Shengyao Lu, **Keith G. Mills**, Jiao He, Bang Liu and Di Niu. <a href="../assets/papers/GOAt_ICLR24.pdf">"*GOAt*: Explaining Graph Neural Networks via Graph Output Attribution"</a>, published in the 12th International Conference on Learning Representations (ICLR 2024; 31.0% acceptance rate).<br>
 [<a href="../assets/posters/GOAt_ICLR24_poster.png">Poster</a>][<a href="https://iclr.cc/virtual/2024/poster/19551">Video</a>][<a href="../assets/slides/GOAt_ICLR24_slides.pdf">Slides</a>]
 
-Mohammad Salameh, **Keith G. Mills**, Negar Hassanpour, Fred X. Han, Shuting Zhang, Wei Lu, Shangling Jui, Chunhua Zhou, Fengyu Sun and Di Niu. <a href="../assets/papers/AutoGO_NeurIPS23.pdf">"AutoGO: Automated Computation Graph Optimization for Neural Network Evolution."</a> In Advances in Neural Information Processing Systems (NeurIPS 2023; 26.1% acceptance rate), vol. 36, pages 74455-74477. <br>
+Mohammad Salameh*, **Keith G. Mills***, Negar Hassanpour, Fred X. Han, Shuting Zhang, Wei Lu, Shangling Jui, Chunhua Zhou, Fengyu Sun and Di Niu. <a href="../assets/papers/AutoGO_NeurIPS23.pdf">"AutoGO: Automated Computation Graph Optimization for Neural Network Evolution."</a> In Advances in Neural Information Processing Systems (NeurIPS 2023; 26.1% acceptance rate), vol. 36, pages 74455-74477. <br>
 [<a href="../assets/posters/AutoGO_NeurIPS23_poster.pdf">Poster</a>][<a href="https://nips.cc/virtual/2023/poster/70604">Video</a>][<a href="../assets/slides/AutoGO_NeurIPS23_slides.pdf">Slides</a>]
 
 Fred X. Han, **Keith G. Mills**, Fabian Chudak, Parsa Riahi, Mohammad Salameh, Jialin Zhang, Wei Lu, Shangling Jui and Di Niu. <a href="../assets/papers/general_predictor_sdm23.pdf">"A General-Purpose Transferable Predictor for Neural Architecture Search."</a> In Proceedings of the 2023 SIAM International Conference on Data Mining (SDM23; 27.4% acceptance rate), pages 721-729. <br>
@@ -45,7 +45,7 @@ Shengyao Lu, Bang Liu, **Keith G. Mills**, Shangling Jui and Di Niu. <a href="..
 <span style="background-color: #4169e1;color:white">Spotlight paper</span><br>
 [<a href="https://iclr.cc/virtual/2022/poster/7053">Video</a>]
 
-**Keith G. Mills**, Fred X. Han, Jialin Zhang, Seyed Saeed Changiz Rezaei, Fabian Chudak, Wei Lu, Shuo Lian, Shangling Jui and Di Niu. <a href="../assets/papers/BlockProfiling_CIKM21.pdf"> "Profiling Neural Blocks and Design Spaces for Mobile Neural Architecture Search."</a> In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM '21; 23.8% acceptance rate) as an Applied Research Paper, pages 4026-4035. <br>
+**Keith G. Mills**\*, Fred X. Han\*, Jialin Zhang, Seyed Saeed Changiz Rezaei, Fabian Chudak, Wei Lu, Shuo Lian, Shangling Jui and Di Niu. <a href="../assets/papers/BlockProfiling_CIKM21.pdf"> "Profiling Neural Blocks and Design Spaces for Mobile Neural Architecture Search."</a> In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM '21; 23.8% acceptance rate) as an Applied Research Paper, pages 4026-4035. <br>
 <span style="background-color: #7851A9;color:white">Selected for oral presentation</span><br>
 [<a href="../assets/posters/BlockProfiling_CIKM21_poster.pdf">Poster</a>][<a href="https://dl.acm.org/doi/10.1145/3459637.3481944">Video</a>][<a href="../assets/slides/BlockProfiling_CIKM21_slides.pdf">Slides</a>]
 
@@ -57,7 +57,7 @@ Seyed Saeed Changiz Rezaei, Fred X. Han, Di Niu, Mohammad Salameh, **Keith Mills
 [<a href="https://ijcai-21.org/videos-slides/?video=3345">Videos and Slides</a>]
 
 ### Refereed Journal Publications
-Ruichen Chen, **Keith G. Mills** and Di Niu. <a href="../assets/papers/FP4DiT_TMLR_11_25.pdf">FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transofmers,"</a> published in Transactions of Machine Learning Research (TMLR), November 2025. 
+Ruichen Chen\*, **Keith G. Mills**\* and Di Niu. <a href="../assets/papers/FP4DiT_TMLR_11_25.pdf">FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transofmers,"</a> published in Transactions of Machine Learning Research (TMLR), November 2025. 
 
 **Keith G. Mills**, Mohammad Salameh, Di Niu, Fred X. Han, Seyed Saeed Changiz Rezaei, Hengshuai Yao, Wei Lu, Shuo Lian and Shangling Jui. <a href="../assets/papers/DDAS_IEEEAccess.pdf">"Exploring Neural Architecture Search Space via Deep Deterministic Sampling,"</a> published in IEEE Access, Vol. 9 (2021), pages 110962-110974.
 
