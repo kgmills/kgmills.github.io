@@ -20,6 +20,17 @@ author_profile: true
 <table>
   <tr>
     <td style="width: 175px;">
+      <img src="/images/chidera.jpg" alt="Chidera C. Nnadiekwe" style="width: 100%; max-width: 175px; height: auto;" />
+    </td>
+    <td>
+        Chidera C. Nnadiekwe is concurrently an MSc student in Computer Science Department under the supervision of Dr. Keith G. Mills and a PhD candidate in the Chemistry Department under the supervision of Dr. Matthew Chambers, both at LSU. His research interests span Artificial Intelligence/Chemical Data Science and Chemistry, with a focus on Trustworthy LLM Agents, Adaptive Experimentation, and Design of Experiments for scientific discovery. His MSc work develops a calibrated, evidence-grounded agentic framework for catalytic condition and outcome prediction in Cobalt/Rhodium-catalyzed hydroformylation and isomerization processes.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="width: 175px;">
       <img src="/images/aedan_j_defrates.png" alt="Aedan J. DeFrates" style="width: 100%; max-width: 175px; height: auto;" />
     </td>
     <td>
