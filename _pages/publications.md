@@ -6,19 +6,19 @@ author_profile: true
 For author list, **bold** indicates my position; *italics* indicates the names of my students and * indicates equal contribution amongst 2+ authors.
 
 ### Refereed Conference Proceedings
-Amirhosein Ghasemabadi, **Keith G. Mills**, Baochun Li and Di Niu. <a href="../assets/papers/GG_ACL26.pdf">"Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence,"</a> accepted to The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26; 19.0%).<br>
+Amirhosein Ghasemabadi, **Keith G. Mills**, Baochun Li and Di Niu. <a href="../assets/papers/GG_ACL26.pdf">"Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence."</a> Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, Vol 1: Long Papers, pages 16251-16265 (ACL'26; 19.0% acceptance rate).<br>
 <span style="background-color: #7851A9;color:white">Selected for oral presentation</span><br>
 [<a href="https://huggingface.co/papers/2505.20325">Project Page</a>][<a href="../assets/posters/GG_ACL26_poster.pdf">Poster</a>][<a href="../assets/slides/GG_ACL26_slides.pdf">Slides</a>]
 
 
-Ruichen Chen, **Keith G. Mills**, Liyao Jiang, Chao Gao and Di Niu. <a href="https://arxiv.org/abs/2505.22918">"Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape,"</a> accepted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25; 24.5% acceptance rate).<br>
+Ruichen Chen, **Keith G. Mills**, Liyao Jiang, Chao Gao and Di Niu. <a href="https://arxiv.org/abs/2505.22918">"Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape."</a> In Advances in Neural Information Processing Systems 38, pages 58029-58055 (NeurIPS'25; 24.5% acceptance rate).<br>
 [<a href="../projects/rettention">Project Page</a>][<a href="../assets/posters/Rettention_NeurIPS25_poster.pdf">Poster</a>]
 
 **Keith G. Mills**, Mohammad Salameh, Ruichen Chen, Negar Hassanpour, Wei Lu and Di Niu. <a href="../assets/papers/Qua2SeDiMo_AAAI25.pdf">"Qua<sup>2</sup>SeDiMo: Quantifiable Quantization Sensitivity of Diffusion Models"</a>. In Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25; 23.4% acceptance rate), pages 6153-6163.
 <br>
 [<a href="../projects/qua2sedimo">Project Page</a>][<a href="../assets/posters/Qua2SeDiMo_AAAI25_poster.pdf">Poster</a>][<a href="../assets/slides/Qua2SeDiMo_AAAI25_slides.pdf">Slides</a>]
 
-Shengyao Lu, Bang Liu, **Keith G. Mills**, Jiao He and Di Niu. <a href="../assets/papers/EiG-Search_ICML24.pdf">"EiG-Search: Generating Edge-Induced Subgraphs for GNN Explanation in Linear Time"</a>, accepted to the Forty-first International Conference on Machine Learning (ICML'24; 27.5% acceptance rate).<br>
+Shengyao Lu, Bang Liu, **Keith G. Mills**, Jiao He and Di Niu. <a href="../assets/papers/EiG-Search_ICML24.pdf">"EiG-Search: Generating Edge-Induced Subgraphs for GNN Explanation in Linear Time."</a> Proceedings of the Forty-first International Conference on Machine Learning (ICML'24; 27.5% acceptance rate).<br>
 [<a href="https://icml.cc/media/PosterPDFs/ICML%202024/34471.png?t=1718314897.8662622">Poster</a>]
 
 **Keith G. Mills**, Fred X. Han, Mohammad Salameh, Shengyao Lu, Chunhua Zhou, Jiao He, Fengyu Sun and Di Niu. <a href="../assets/papers/AutoBuild_CVPR24.pdf">"Building Optimal Neural Architectures using Interpretable Knowledge"</a>, in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24; 23.6% acceptance rate), pages 5726-5735.<br>
