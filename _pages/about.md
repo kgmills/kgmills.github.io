@@ -22,7 +22,7 @@ I am actively recruiting self-motivated PhD and MSc students with strong technic
 * Explainable and Interpretable AI
 * Applications of AI and Agentic Systems
 
-I am primarily targetting intake for Spring 2027. Exceptional candidates interested in Fall 2026 admission are also encouraged to apply. <a href="assets/recruiting/athena_hiring.pdf">Please consult the ATHENA application guidelines when reaching out.</a>
+I am primarily targetting intake for Spring 2027. <a href="assets/recruiting/athena_hiring.pdf">Please consult the ATHENA application guidelines when reaching out.</a>
 
 
 ## Recent News
