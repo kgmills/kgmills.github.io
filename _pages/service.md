@@ -23,6 +23,7 @@ author_profile: true
 * IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)<br>
 * Eighteenth European Conference on Computer Vision (ECCV)<br>
 * International Conference on Computer Vision (ICCV)<br>
+* Asian Conference on Computer Vision (ACCV)<br>
 * International Conference on Machine Learning (ICML)<br>
 * International Conference on Learning Representations (ICLR)<br>
 * Annual AAAI Conference on Artificial Intelligence (AAAI)<br>
