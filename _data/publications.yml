@@ -262,7 +262,7 @@
   title_url: "https://arxiv.org/abs/2606.05478"
 
 - category: Preprints
-  sort_date: "2025-03"
+  sort_date: "2026-05"
   authors: "Shengyao Lu, Jiuding Yang, <em>Aedan J. DeFrates</em>, <strong>Keith G. Mills</strong>, Baochun Li and Di Niu."
   title: "Model-Level GNN Explanations via Rule-to-Graph Readout for Logit Reconstruction."
   title_url: "https://arxiv.org/pdf/2503.09051"
