@@ -2,82 +2,145 @@
 permalink: /publications/
 title: Publications
 author_profile: true
+publication_view: category
+publication_category_order:
+  - Refereed Conference Proceedings
+  - Refereed Journal Publications
+  - Poster Presentations
+  - Preprints
 ---
 For author list, **bold** indicates my position; *italics* indicates the names of my students and * indicates equal contribution amongst 2+ authors.
 
-### Refereed Conference Proceedings
-Amirhosein Ghasemabadi, **Keith G. Mills**, Baochun Li and Di Niu. <a href="../assets/papers/GG_ACL26.pdf">"Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence."</a> Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, Vol 1: Long Papers, pages 16251-16265 (ACL'26; 19.0% acceptance rate).<br>
-<span style="background-color: #7851A9;color:white">Selected for oral presentation</span><br>
-[<a href="https://huggingface.co/papers/2505.20325">Project Page</a>][<a href="../assets/posters/GG_ACL26_poster.pdf">Poster</a>][<a href="../assets/slides/GG_ACL26_slides.pdf">Slides</a>]
+{% assign publications = site.data.publications %}
+{% assign category_order = page.publication_category_order | default: "" %}
+{% assign grouped_publications = publications | group_by: "category" %}
+{% assign sorted_publications = publications | sort: "sort_date" | reverse %}
 
+<style>
+  .publication-view-toggle {
+    display: flex;
+    gap: 0.75rem;
+    margin: 1.5rem 0;
+    flex-wrap: wrap;
+  }
 
-Ruichen Chen, **Keith G. Mills**, Liyao Jiang, Chao Gao and Di Niu. <a href="../assets/papers/re-ttention_neurips25.pdf">"Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape."</a> In Advances in Neural Information Processing Systems 38, San Diego, California, pages 58029-58055 (NeurIPS'25; 24.5% acceptance rate).<br>
-[<a href="../projects/rettention">Project Page</a>][<a href="../assets/posters/Rettention_NeurIPS25_poster.pdf">Poster</a>]
+  .publication-view-toggle button {
+    border: 1px solid #7a8288;
+    background: transparent;
+    color: inherit;
+    padding: 0.5rem 1rem;
+    border-radius: 999px;
+    cursor: pointer;
+    font: inherit;
+  }
 
-**Keith G. Mills**, Mohammad Salameh, Ruichen Chen, Negar Hassanpour, Wei Lu and Di Niu. <a href="../assets/papers/Qua2SeDiMo_AAAI25.pdf">"Qua<sup>2</sup>SeDiMo: Quantifiable Quantization Sensitivity of Diffusion Models"</a>. In Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25; 23.4% acceptance rate), pages 6153-6163.
-<br>
-[<a href="../projects/qua2sedimo">Project Page</a>][<a href="../assets/posters/Qua2SeDiMo_AAAI25_poster.pdf">Poster</a>][<a href="../assets/slides/Qua2SeDiMo_AAAI25_slides.pdf">Slides</a>][<a href="https://arxiv.org/pdf/2412.14628">ArXiv w/ Supplementary</a>]
+  .publication-view-toggle button.is-active {
+    background: #2f3e46;
+    border-color: #2f3e46;
+    color: #ffffff;
+  }
 
-Shengyao Lu, Bang Liu, **Keith G. Mills**, Jiao He and Di Niu. <a href="../assets/papers/EiG-Search_ICML24.pdf">"EiG-Search: Generating Edge-Induced Subgraphs for GNN Explanation in Linear Time."</a> Proceedings of the Forty-first International Conference on Machine Learning, pages 33069-33088 (ICML'24; 27.5% acceptance rate).<br>
-[<a href="https://icml.cc/media/PosterPDFs/ICML%202024/34471.png?t=1718314897.8662622">Poster</a>]
+  .publication-view-panel[hidden] {
+    display: none;
+  }
 
-**Keith G. Mills**, Fred X. Han, Mohammad Salameh, Shengyao Lu, Chunhua Zhou, Jiao He, Fengyu Sun and Di Niu. <a href="../assets/papers/AutoBuild_CVPR24.pdf">"Building Optimal Neural Architectures using Interpretable Knowledge"</a>, in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24; 23.6% acceptance rate), pages 5726-5735.<br>
-[<a href="../assets/posters/AutoBuild_CVPR24_poster.pdf">Poster</a>][<a href="https://www.youtube.com/watch?v=rujgUNaXKr4&ab_channel=KeithMills">Video</a>][<a href="../assets/slides/AutoBuild_CVPR24_slides.pdf">Slides</a>][<a href="https://arxiv.org/pdf/2403.13293">ArXiv w/ Supplementary</a>]
+  .publication-entry {
+    margin-bottom: 1.25rem;
+  }
 
-Shengyao Lu, **Keith G. Mills**, Jiao He, Bang Liu and Di Niu. <a href="../assets/papers/GOAt_ICLR24.pdf">"*GOAt*: Explaining Graph Neural Networks via Graph Output Attribution"</a>, published in the 12th International Conference on Learning Representations (ICLR 2024; 31.0% acceptance rate).<br>
-[<a href="../assets/posters/GOAt_ICLR24_poster.png">Poster</a>][<a href="https://iclr.cc/virtual/2024/poster/19551">Video</a>][<a href="../assets/slides/GOAt_ICLR24_slides.pdf">Slides</a>]
+  .page__content .publication-entry-main,
+  .page__content .publication-entry-badges,
+  .page__content .publication-entry-links {
+    margin: 0;
+  }
 
-Mohammad Salameh*, **Keith G. Mills***, Negar Hassanpour, Fred X. Han, Shuting Zhang, Wei Lu, Shangling Jui, Chunhua Zhou, Fengyu Sun and Di Niu. <a href="../assets/papers/AutoGO_NeurIPS23.pdf">"AutoGO: Automated Computation Graph Optimization for Neural Network Evolution."</a> In Advances in Neural Information Processing Systems (NeurIPS 2023; 26.1% acceptance rate), vol. 36, pages 74455-74477. <br>
-[<a href="../assets/posters/AutoGO_NeurIPS23_poster.pdf">Poster</a>][<a href="https://nips.cc/virtual/2023/poster/70604">Video</a>][<a href="../assets/slides/AutoGO_NeurIPS23_slides.pdf">Slides</a>]
+  .page__content .publication-entry-badges,
+  .page__content .publication-entry-links {
+    margin-top: 0;
+  }
+</style>
 
-Fred X. Han, **Keith G. Mills**, Fabian Chudak, Parsa Riahi, Mohammad Salameh, Jialin Zhang, Wei Lu, Shangling Jui and Di Niu. <a href="../assets/papers/general_predictor_sdm23.pdf">"A General-Purpose Transferable Predictor for Neural Architecture Search."</a> In Proceedings of the 2023 SIAM International Conference on Data Mining (SDM23; 27.4% acceptance rate), pages 721-729. <br>
-[<a href="../assets/posters/general_predictor_sdm23_poster.pdf">Poster</a>][<a href="../assets/slides/general_predictor_sdm23_slides.pdf">Slides</a>][<a href="https://arxiv.org/pdf/2302.10835">ArXiv w/ Supplementary</a>]
+<div class="publication-view-toggle" role="tablist" aria-label="Publication sorting views">
+  <button type="button" class="publication-view-button" data-view="category" aria-pressed="false">Sort by category</button>
+  <button type="button" class="publication-view-button" data-view="date" aria-pressed="false">Sort by date</button>
+</div>
 
-**Keith G. Mills**, Di Niu, Mohammad Salameh, Weichen Qiu, Fred X. Han, Puyuan Liu, Jialin Zhang, Wei Lu and Shangling Jui. <a href="../assets/papers/AIO-P_AAAI23.pdf"> "AIO-P: Expanding Neural Performance Predictors Beyond Image Classification."</a> In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23; 19.6% acceptance rate), pages 9180-9189. <br>
-<span style="background-color: #7851A9;color:white">Selected for oral presentation</span><br>
-[<a href="../assets/posters/AIO-P_AAAI23_poster.pdf">Poster</a>][<a href="https://underline.io/events/380/sessions/14509/lecture/67761-aio-p-expanding-neural-performance-predictors-beyond-image-classification">Video</a>][<a href="../assets/slides/AIO-P_AAAI23_slides.pdf">Slides</a>][<a href="https://arxiv.org/pdf/2211.17228">ArXiv w/ Supplementary</a>]
+<div class="publication-view-panel" data-view-panel="category">
+{% if category_order and category_order.size > 0 %}
+{% for category_name in category_order %}
+{% assign category_publications = publications | where: "category", category_name | sort: "sort_date" | reverse %}
+{% if category_publications.size > 0 %}
+<h3>{{ category_name }}</h3>
+{% for publication in category_publications %}
+<div class="publication-entry">
+<p class="publication-entry-main">{{ publication.authors }} <a href="{{ publication.title_url }}">"{{ publication.title }}"</a>{% if publication.details %} {{ publication.details }}{% endif %}{% if publication.display_date %} {{ publication.display_date }}.{% endif %}</p>
+{% if publication.badges %}
+<p class="publication-entry-badges">{% for badge in publication.badges %}<span style="background-color: {{ badge.background }};color:{{ badge.color }}">{{ badge.text }}</span>{% endfor %}</p>
+{% endif %}
+{% if publication.links %}
+<p class="publication-entry-links">{% for link in publication.links %}[<a href="{{ link.url }}">{{ link.label }}</a>]{% endfor %}</p>
+{% endif %}
+ </div>
+{% endfor %}
+{% endif %}
+{% endfor %}
+{% else %}
+{% for category_group in grouped_publications %}
+<h3>{{ category_group.name }}</h3>
+{% assign category_publications = category_group.items | sort: "sort_date" | reverse %}
+{% for publication in category_publications %}
+<div class="publication-entry">
+<p class="publication-entry-main">{{ publication.authors }} <a href="{{ publication.title_url }}">"{{ publication.title }}"</a>{% if publication.details %} {{ publication.details }}{% endif %}{% if publication.display_date %} {{ publication.display_date }}.{% endif %}</p>
+{% if publication.badges %}
+<p class="publication-entry-badges">{% for badge in publication.badges %}<span style="background-color: {{ badge.background }};color:{{ badge.color }}">{{ badge.text }}</span>{% endfor %}</p>
+{% endif %}
+{% if publication.links %}
+<p class="publication-entry-links">{% for link in publication.links %}[<a href="{{ link.url }}">{{ link.label }}</a>]{% endfor %}</p>
+{% endif %}
+ </div>
+{% endfor %}
+{% endfor %}
+{% endif %}
+</div>
 
-**Keith G. Mills**, Fred X. Han, Jialin Zhang, Fabian Chudak, Ali Safari Mamaghani, Mohammad Salameh, Wei Lu, Shangling Jui and Di Niu. <a href="../assets/papers/GENNAPE_AAAI23.pdf"> "GENNAPE: Towards Generalized Neural Architecture Performance Estimators."</a> In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23; 19.6% acceptance rate), pages 9190-9199. <br>
-<span style="background-color: #7851A9;color:white">Selected for oral presentation</span><br>
-[<a href="../assets/posters/GENNAPE_AAAI23_poster.pdf">Poster</a>][<a href="https://underline.io/events/380/sessions/14509/lecture/67942-gennape-towards-generalized-neural-architecture-performance-estimators">Video</a>][<a href="../assets/slides/GENNAPE_AAAI23_slides.pdf">Slides</a>][<a href="https://arxiv.org/pdf/2211.17226">ArXiv w/ Supplementary</a>]
+<div class="publication-view-panel" data-view-panel="date">
+{% for publication in sorted_publications %}
+<div class="publication-entry">
+<p class="publication-entry-main">{{ publication.authors }} <a href="{{ publication.title_url }}">"{{ publication.title }}"</a>{% if publication.details %} {{ publication.details }}{% endif %}<br><small>{{ publication.category }}{% if publication.display_date %} | {{ publication.display_date }}{% elsif publication.sort_date %} | {{ publication.sort_date }}{% endif %}</small></p>
+{% if publication.badges %}
+<p class="publication-entry-badges">{% for badge in publication.badges %}<span style="background-color: {{ badge.background }};color:{{ badge.color }}">{{ badge.text }}</span>{% endfor %}</p>
+{% endif %}
+{% if publication.links %}
+<p class="publication-entry-links">{% for link in publication.links %}[<a href="{{ link.url }}">{{ link.label }}</a>]{% endfor %}</p>
+{% endif %}
+ </div>
+{% endfor %}
+</div>
 
-Shengyao Lu, Bang Liu, **Keith G. Mills**, Shangling Jui and Di Niu. <a href="../assets/papers/R5_ICLR22.pdf"> "R5: Rule Discovery with Reinforced and Recurrent Relational Reasoning," </a> published in the 10th International Conference on Learning Representations (ICLR 2022; 32.9% acceptance rate).<br>
-<span style="background-color: #4169e1;color:white">Spotlight paper</span><br>
-[<a href="https://iclr.cc/virtual/2022/poster/7053">Video</a>]
+<script>
+  (function() {
+    const defaultView = {{ page.publication_view | jsonify }};
+    const buttons = Array.from(document.querySelectorAll('.publication-view-button'));
+    const panels = Array.from(document.querySelectorAll('.publication-view-panel'));
 
-**Keith G. Mills**\*, Fred X. Han\*, Jialin Zhang, Seyed Saeed Changiz Rezaei, Fabian Chudak, Wei Lu, Shuo Lian, Shangling Jui and Di Niu. <a href="../assets/papers/BlockProfiling_CIKM21.pdf"> "Profiling Neural Blocks and Design Spaces for Mobile Neural Architecture Search."</a> In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM '21; 23.8% acceptance rate) as an Applied Research Paper, pages 4026-4035. <br>
-<span style="background-color: #7851A9;color:white">Selected for oral presentation</span><br>
-[<a href="../assets/posters/BlockProfiling_CIKM21_poster.pdf">Poster</a>][<a href="https://dl.acm.org/doi/10.1145/3459637.3481944">Video</a>][<a href="../assets/slides/BlockProfiling_CIKM21_slides.pdf">Slides</a>]
+    function setView(view) {
+      buttons.forEach((button) => {
+        const active = button.dataset.view === view;
+        button.classList.toggle('is-active', active);
+        button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      });
 
-**Keith G. Mills**, Fred X. Han, Mohammad Salameh, Seyed Saeed Changiz Rezaei, Linglong Kong, Wei Lu, Shuo Lian, Shangling Jui and Di Niu. <a href="../assets/papers/L2NAS_CIKM21.pdf"> "L<sup>2</sup>NAS: Learning to Optimize Neural Architectures via Continuous-Action Reinforcement Learning."</a> In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM '21; 21.7% acceptance rate), pages 1284-1293. <br>
-<span style="background-color: #7851A9;color:white">Selected for oral presentation</span><br>
-[<a href="../assets/posters/L2NAS_CIKM21_poster.pdf">Poster</a>][<a href="https://dl.acm.org/doi/10.1145/3459637.3482360">Video</a>][<a href="../assets/slides/L2NAS_CIKM21_slides.pdf">Slides</a>]
+      panels.forEach((panel) => {
+        panel.hidden = panel.dataset.viewPanel !== view;
+      });
+    }
 
-Seyed Saeed Changiz Rezaei, Fred X. Han, Di Niu, Mohammad Salameh, **Keith Mills**, Shuo Lian, Wei Lu and Shangling Jui. <a href="../assets/papers/GA-NAS_IJCAI21.pdf"> "Generative Adversarial Neural Architecture Search."</a> In Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (IJCAI-21; 13.9% acceptance rate), pages 2227-2234.<br>
-[<a href="https://ijcai-21.org/videos-slides/?video=3345">Videos and Slides</a>][<a href="https://arxiv.org/pdf/2105.09356">ArXiv w/ Supplementary</a>]
+    buttons.forEach((button) => {
+      button.addEventListener('click', function() {
+        setView(button.dataset.view);
+      });
+    });
 
-### Refereed Journal Publications
-Ruichen Chen\*, **Keith G. Mills**\* and Di Niu. <a href="../assets/papers/FP4DiT_TMLR_11_25.pdf">FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transofmers,"</a> published in Transactions of Machine Learning Research (TMLR), November 2025. 
-
-**Keith G. Mills**, Mohammad Salameh, Di Niu, Fred X. Han, Seyed Saeed Changiz Rezaei, Hengshuai Yao, Wei Lu, Shuo Lian and Shangling Jui. <a href="../assets/papers/DDAS_IEEEAccess.pdf">"Exploring Neural Architecture Search Space via Deep Deterministic Sampling,"</a> published in IEEE Access, Vol. 9 (2021), pages 110962-110974.
-
-Chenglin Li, **Keith Mills**, Rui Zhu, Di Niu, Hongwen Zhang and Husam Kinawi. <a href="../assets/papers/Android_Malware_Factorization_IEEEAccess.pdf">"Android Malware Detection based on Factorization Machine,"</a> published in IEEE Access, Vol. 7 (2019), pages 184008-184019.
-
-
-### Poster Presentations
-**Keith G. Mills**, Muhammad Fetrat Qharabagh, Weichen Qiu, Fred X. Han, Mohammad Salameh, Wei Lu, Shangling Jui and Di Niu. <a href="../assets/papers/GET_OPFUSE_DAC23.pdf">"Applying Graph Explanation to Operator Fusion,"</a> presented as a Work-In-Progress (WIP) poster at the 60th ACM/EDAC/IEEE Design Automation Conference (DAC 2023) in San Francisco on July 12th, 2023.<br>
-[<a href="../assets/posters/applying_get_op_fusion_DAC2023.pdf">Poster</a>]
-
-
-### Preprints
-**Keith G. Mills**, *Aedan J. DeFrates* and *Joong Ho Kim*. <a href="https://arxiv.org/pdf/2607.26404">"Examining the Efficacy of Graph Neural Network Message-Passing in Regression Contexts."</a>
-
-*Joong Ho Kim* and **Keith G. Mills**. <a href="https://arxiv.org/abs/2606.05478">"Can We Predict The Human Preference For Text-to-Image Content Prior To Generation And Is It Even Useful To Do So?"</a>
-
-Shengyao Lu, Jiuding Yang, *Aedan J. DeFrates*, **Keith G. Mills**, Baochun Li and Di Niu. <a href="https://arxiv.org/pdf/2503.09051">"Model-Level GNN Explanations via Rule-to-Graph Readout for Logit Reconstruction."</a>
-
-*Joong Ho Kim, Nicholas Thai*, Souhardya Saha Dip, Dong Lao and **Keith G. Mills**. <a href="https://arxiv.org/abs/2603.12506">"Naïve PAINE: Lightweight Text-to-Image Generation Improvement with Prompt Evaluation."</a>
-
-Azanzi Jiomekong, Hande Küçük McGinty, **Keith G. Mills**, Allard Oelen, Enayat Rajabi, Harry McElroy, Antrea Christou, Anmol Saini, Janice Anta Zebaze, Hannah Kim, Anna. M. Jacyszyn and Sören Auer. <a href="https://arxiv.org/abs/2509.02581">"Charting the Future of Scholarly Knowledge with AI: A Community Perspective."</a>
-
-Liyao Jiang, Ruichen Chen and **Keith G. Mills**. <a href="https://arxiv.org/pdf/2604.22830">"2D Pre-Training for 3D Pose Estimation."</a>
+    setView(defaultView || 'category');
+  })();
+</script>
