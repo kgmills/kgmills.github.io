@@ -250,6 +250,12 @@
       url: "../assets/posters/applying_get_op_fusion_DAC2023.pdf"
 
 - category: Preprints
+  sort_date: "2026-08"
+  authors: "<strong>Keith G. Mills</strong>, <em>Evan B. Sanders</em>, Gregory J. Matthews and Juliet K. Brophy."
+  title: "Segmentation of Bovid Dentition Under Imperfect Annotations: A Comparative Study of Convolutional and Attention Models."
+  title_url: "https://arxiv.org/pdf/2608.31052"
+
+- category: Preprints
   sort_date: "2026-07"
   authors: "<strong>Keith G. Mills</strong>, <em>Aedan J. DeFrates</em> and <em>Joong Ho Kim</em>."
   title: "Examining the Efficacy of Graph Neural Network Message-Passing in Regression Contexts."
