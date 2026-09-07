@@ -42,6 +42,17 @@ author_profile: true
 <table>
   <tr>
     <td style="width: 175px;">
+      <img src="/images/william_sean_morales.png" alt="William S. Morales" style="width: 100%; max-width: 175px; height: auto;" />
+    </td>
+    <td>
+        William S. Morales is a Computer Science senior at LSU pursuing a concentration in Data Science with minors in Linguistics and Spanish. A member of the LSU Honors College, he works under Dr. Keith G. Mills on his Honors thesis, which examines how far phonological representations in Self-Supervised Speech Models (S3Ms) can be compressed before degradation, bridging model efficiency and phonological theory. He previously studied Spanish intensifier variation under Dr. Rafael Orozco, published in the Proceedings of the Linguistic Society of America, and sociophonetic speech perception under Dr. Hyunju Chung and Dr. Irina Shport. He serves as President of the LSU Student Linguistics Association and is applying to graduate programs in Computational Linguistics.  
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="width: 175px;">
       <img src="/images/aedan_j_defrates.png" alt="Aedan J. DeFrates" style="width: 100%; max-width: 175px; height: auto;" />
     </td>
     <td>
