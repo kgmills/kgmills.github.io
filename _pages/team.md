@@ -31,6 +31,17 @@ author_profile: true
 <table>
   <tr>
     <td style="width: 175px;">
+      <img src="/images/garrett_wainright.jpg" alt="Garrett Wainright" style="width: 100%; max-width: 175px; height: auto;" />
+    </td>
+    <td>
+        Garrett Wainright is an MS Computer Science student (thesis track) at LSU under the supervision of Dr. Keith G. Mills. Garrett earned his BS in Economics with concentrations in econometrics, communication studies, and energy from LSU where his work with time-series data sparked an interest in how temporal signals can be processed efficiently on constrained hardware. His interests include neuromorphic computing and the efficient deployment of neural networks on edge devices, with an eye toward condition monitoring of continuously operating industrial machinery such as pumps and bearing-based systems.  
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="width: 175px;">
       <img src="/images/chidera.jpg" alt="Chidera C. Nnadiekwe" style="width: 100%; max-width: 175px; height: auto;" />
     </td>
     <td>
