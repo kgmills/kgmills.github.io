@@ -20,6 +20,17 @@ author_profile: true
 <table>
   <tr>
     <td style="width: 175px;">
+      <img src="/images/kevin_vo_bigting.jpg" alt="Kevin Vo Bigting" style="width: 100%; max-width: 175px; height: auto;" />
+    </td>
+    <td>
+        Kevin Vo Bigting is a CSE PhD student at LSU under the supervision of Dr. Keith G. Mills. Kevin obtained his BSc in Computer Science with a concentration in Data Analytics from LSU in May 2026. During his undergraduate studies, he conducted research on applying machine learning and artificial intelligence to chemistry and developed AI-powered systems for contract analysis. His research interests broadly relate to machine learning, artificial intelligence, graph neural networks, and developing effective AI systems for scientific and real-world applications.  
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="width: 175px;">
       <img src="/images/chidera.jpg" alt="Chidera C. Nnadiekwe" style="width: 100%; max-width: 175px; height: auto;" />
     </td>
     <td>
