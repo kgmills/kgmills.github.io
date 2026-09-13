@@ -72,6 +72,17 @@ author_profile: true
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td style="width: 175px;">
+      <img src="/images/damien_nguyen.png" alt="Damien Nguyen" style="width: 100%; max-width: 175px; height: auto;" />
+    </td>
+    <td>
+        Damien Nguyen, is an Undergraduate Senior in Computer Engineering at Louisiana State University, working on applied machine learning and LLM agent systems. His recent experience spans production agent infrastructure at AWS Supply Chain and independent research on agentic workflows and AutoML. 
+    </td>
+  </tr>
+</table>
+
 **Alumnus**
 
 <table>
