@@ -83,6 +83,17 @@ author_profile: true
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td style="width: 175px;">
+      <img src="/images/kennedy_nguyen.png" alt="Kennedy Nguyen" style="width: 100%; max-width: 175px; height: auto;" />
+    </td>
+    <td>
+        Kennedy Nguyen is a Computer Science senior at LSU concentrating in Software Engineering. He enjoys learning new areas of computer science through personal projects, especially in computer graphics, artificial intelligence, and engine programming. He is developing a C++/Vulkan real-time engine inspired by Portal and Valve’s Source engine, featuring portal rendering and mechanics, Source/Quake-style movement, bhop mechanics, custom scene editing tools, and real-time lighting. He also works at LSU CARTS, developing AI tools for transportation data. His interests include real-time rendering, GPU programming, artificial intelligence, and building interactive systems from the ground up.
+    </td>
+  </tr>
+</table>
+
 **Alumnus**
 
 <table>
