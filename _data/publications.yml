@@ -11,6 +11,8 @@
   links:
     - label: "Project Page"
       url: "https://huggingface.co/papers/2505.20325"
+    - label: "Video"
+      url: "https://underline.io/events/524/sessions/22824/lecture/149506-guided-by-gut-efficient-test-time-scaling-with-reinforced-intrinsic-confidence"
     - label: "Poster"
       url: "../assets/posters/GG_ACL26_poster.pdf"
     - label: "Slides"
