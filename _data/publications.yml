@@ -260,7 +260,7 @@
 - category: Preprints
   sort_date: "2026-07"
   authors: "<strong>Keith G. Mills</strong>, <em>Aedan J. DeFrates</em> and <em>Joong Ho Kim</em>."
-  title: "Examining the Efficacy of Graph Neural Network Message-Passing in Regression Contexts."
+  title: "How Much Does Message Passing Matter? A Drop-In Study of GNN Layers for Neural Network Graph Regression."
   title_url: "https://arxiv.org/pdf/2607.26404"
 
 - category: Preprints
