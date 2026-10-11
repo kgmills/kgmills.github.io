@@ -15,6 +15,7 @@ author_profile: true
 ## Peer Review
 
 ### Service Awards and Recognition
+* Top Area Chair for the 40th Annual Conference on Neural Information Processing Systems (NeurIPS'26)<br>
 * Top Reviewer for the 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24)<br>
 
 ### Conferences
