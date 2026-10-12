@@ -252,6 +252,12 @@
       url: "../assets/posters/applying_get_op_fusion_DAC2023.pdf"
 
 - category: Preprints
+  sort_date: "2026-10"
+  authors: "Ehsan Agha Ebrahimi, Yong-Cheol Lee and <strong>Keith G. Mills</strong>."
+  title: "Domain Adaptation of SAM 2.1 for Building-Component Segmentation in Image-Based 3D Reconstruction."
+  title_url: "https://arxiv.org/abs/2610.12786"
+
+- category: Preprints
   sort_date: "2026-08"
   authors: "<strong>Keith G. Mills</strong>, <em>Evan B. Sanders</em>, Gregory J. Matthews and Juliet K. Brophy."
   title: "Segmentation of Bovid Dentition Under Imperfect Annotations: A Comparative Study of Convolutional and Attention Models."
