@@ -7,6 +7,7 @@ author_profile: true
 ## Organization and Editorialism
 
 ### Conference Area Chair
+* International Conference on Machine Learning (ICML)
 * Neural Information Processing Systems (NeurIPS)<br>
 
 ### Organizing Committee
