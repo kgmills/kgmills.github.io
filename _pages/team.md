@@ -113,7 +113,7 @@ author_profile: true
       <img src="/images/nthai.jpg" alt="Nicholas Thai" style="width: 100%; max-width: 175px; height: auto;" />
     </td>
     <td>
-        Nicholas Thai is an LSU graduate who earned his BSc in Software Engineering in Spring 2026 with a minor in Mathematics. During his time as an undergraduate student, he collaborated closely with Dr. Mills on Diffusion Model research. Now, he is working full-time as a Software Engineer at Visa Inc.
+        Nicholas Tran Thai is an LSU graduate who earned his BSc in Software Engineering in Spring 2026 with a minor in Mathematics. During his time as an undergraduate student, he collaborated closely with Dr. Mills on Diffusion Model research. Now, he is working full-time as a Software Engineer at Visa Inc.
     </td>
   </tr>
 </table>
